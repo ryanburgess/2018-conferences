@@ -124,5 +124,14 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "NgAtlanta",
+    "url": "http://ng-atl.org/",
+    "where": "Atlanta, GA",
+    "when": "January 30 - February 2, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

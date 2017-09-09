@@ -74,6 +74,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** June 13-15, 2018
     
+## [NgAtlanta](http://ng-atl.org/)
+**Where:** Atlanta, GA
+
+**When:** January 30 - February 2, 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
