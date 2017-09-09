@@ -5,7 +5,8 @@
     "where": "San Antonio, TX",
     "when": "February 22, 2018",
     "month": "February",
-    "submissionDeadline": ""
+    "submissionDeadline": "",
+    "country": "USA"
   },
   {
     "title": "RenderConf",
@@ -13,7 +14,8 @@
     "where": "Oxford, UK",
     "when": "March 23, 2018",
     "month": "March",
-    "submissionDeadline": ""
+    "submissionDeadline": "",
+    "country": "UK"
   },
   {
     "title": "ForwardJS Ottawa",
@@ -21,7 +23,8 @@
     "where": "Ottawa, ON",
     "when": "April 3-6, 2018",
     "month": "April",
-    "submissionDeadline": ""
+    "submissionDeadline": "",
+    "country": "Canada"
   },
   {
     "title": "FullStack",
@@ -29,6 +32,97 @@
     "where": "London, UK",
     "when": "July 11-13, 2018",
     "month": "July",
-    "submissionDeadline": ""
+    "submissionDeadline": "",
+    "country": "UK"
+  },
+  {
+    "title": "Script",
+    "url": "https://scriptconf.org/",
+    "where": "Linz, Austria",
+    "when": "January 19, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "Austria"
+  },
+  {
+    "title": "Agent",
+    "url": "https://www.agent.sh/",
+    "where": "Dornbirn, Austria",
+    "when": "January 25-26, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "Austria"
+  },
+  {
+    "title": "ConFoo",
+    "url": "https://confoo.ca/en/yul2018",
+    "where": "Montreal, QC",
+    "when": "March 7-9, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Canada"
+  },
+  {
+    "title": "ng-europe",
+    "url": "https://ngeurope.org/",
+    "where": "Paris, France",
+    "when": "February 1-2, 2018",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
+    "title": "NG Vikings",
+    "url": "https://ngvikings.org/",
+    "where": "Helsinki, Finland",
+    "when": "March 1-2, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Finland"
+  },
+  {
+    "title": "NG Conf",
+    "url": "https://www.ng-conf.org/",
+    "where": "Salt Lake City, UT",
+    "when": "April 18-20, 2018",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "JSConf AU",
+    "url": "https://2018.jsconfau.com/",
+    "where": "Melbourne, AU",
+    "when": "March 21-22, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Australia"
+  },
+  {
+    "title": "CSSConf AU",
+    "url": "https://2018.cssconf.com.au/",
+    "where": "Melbourne, AU",
+    "when": "March 20, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Australia"
+  },
+  {
+    "title": "Deompress",
+    "url": "https://2018.decompress.com.au/",
+    "where": "Melbourne, AU",
+    "when": "March 23, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Australia"
+  },
+  {
+    "title": "ConvergeSE",
+    "url": "http://convergese.com/",
+    "where": "Columbia, SC",
+    "when": "June 13-15, 2018",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
