@@ -1,0 +1,34 @@
+[
+  {
+    "title": "AssertJS",
+    "url": "https://www.assertjs.com/",
+    "where": "San Antonio, TX",
+    "when": "February 22, 2018",
+    "month": "February",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "RenderConf",
+    "url": "https://2018.render-conf.com/",
+    "where": "Oxford, UK",
+    "when": "March 23, 2018",
+    "month": "March",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "ForwardJS Ottawa",
+    "url": "https://forwardjs.com/ottawa",
+    "where": "Ottawa, ON",
+    "when": "April 3-6, 2018",
+    "month": "April",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "FullStack",
+    "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
+    "where": "London, UK",
+    "when": "July 11-13, 2018",
+    "month": "July",
+    "submissionDeadline": ""
+  }
+]
