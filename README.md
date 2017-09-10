@@ -4,6 +4,26 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 # Conference List
 
+## [Script](https://scriptconf.org/)
+**Where:** Linz, Austria
+
+**When:** January 19, 2018
+    
+## [Agent](https://www.agent.sh/)
+**Where:** Dornbirn, Austria
+
+**When:** January 25-26, 2018
+    
+## [JSConf Asia](http://ng-atl.org/)
+**Where:** Singapore
+
+**When:** January 25-27, 2018
+    
+## [NgAtlanta](http://ng-atl.org/)
+**Where:** Atlanta, GA
+
+**When:** January 30 - February 2, 2018
+    
 ## [AssertJS](https://www.assertjs.com/)
 **Where:** San Antonio, TX
 
@@ -24,16 +44,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** July 11-13, 2018
     
-## [Script](https://scriptconf.org/)
-**Where:** Linz, Austria
-
-**When:** January 19, 2018
-    
-## [Agent](https://www.agent.sh/)
-**Where:** Dornbirn, Austria
-
-**When:** January 25-26, 2018
-    
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
 
@@ -49,40 +59,30 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 1-2, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [CSSConf AU](https://2018.cssconf.com.au/)
+**Where:** Melbourne, AU
 
-**When:** April 18-20, 2018
+**When:** March 20, 2018
     
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
 **When:** March 21-22, 2018
     
-## [CSSConf AU](https://2018.cssconf.com.au/)
-**Where:** Melbourne, AU
-
-**When:** March 20, 2018
-    
 ## [Deompress](https://2018.decompress.com.au/)
 **Where:** Melbourne, AU
 
 **When:** March 23, 2018
     
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
+
+**When:** April 18-20, 2018
+    
 ## [ConvergeSE](http://convergese.com/)
 **Where:** Columbia, SC
 
 **When:** June 13-15, 2018
-    
-## [NgAtlanta](http://ng-atl.org/)
-**Where:** Atlanta, GA
-
-**When:** January 30 - February 2, 2018
-    
-## [JSConf Asia](http://ng-atl.org/)
-**Where:** Singapore
-
-**When:** January 25-27, 2018
     
 ## Contributing
 1. Fork it

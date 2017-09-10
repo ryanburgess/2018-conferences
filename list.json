@@ -1,5 +1,41 @@
 [
   {
+    "title": "Script",
+    "url": "https://scriptconf.org/",
+    "where": "Linz, Austria",
+    "when": "January 19, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "Austria"
+  },
+  {
+    "title": "Agent",
+    "url": "https://www.agent.sh/",
+    "where": "Dornbirn, Austria",
+    "when": "January 25-26, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "Austria"
+  },
+  {
+    "title": "JSConf Asia",
+    "url": "http://ng-atl.org/",
+    "where": "Singapore",
+    "when": "January 25-27, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "Singapore"
+  },
+  {
+    "title": "NgAtlanta",
+    "url": "http://ng-atl.org/",
+    "where": "Atlanta, GA",
+    "when": "January 30 - February 2, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "AssertJS",
     "url": "https://www.assertjs.com/",
     "where": "San Antonio, TX",
@@ -36,24 +72,6 @@
     "country": "UK"
   },
   {
-    "title": "Script",
-    "url": "https://scriptconf.org/",
-    "where": "Linz, Austria",
-    "when": "January 19, 2018",
-    "month": "January",
-    "submissionDeadline": "",
-    "country": "Austria"
-  },
-  {
-    "title": "Agent",
-    "url": "https://www.agent.sh/",
-    "where": "Dornbirn, Austria",
-    "when": "January 25-26, 2018",
-    "month": "January",
-    "submissionDeadline": "",
-    "country": "Austria"
-  },
-  {
     "title": "ConFoo",
     "url": "https://confoo.ca/en/yul2018",
     "where": "Montreal, QC",
@@ -81,28 +99,19 @@
     "country": "Finland"
   },
   {
-    "title": "NG Conf",
-    "url": "https://www.ng-conf.org/",
-    "where": "Salt Lake City, UT",
-    "when": "April 18-20, 2018",
-    "month": "April",
+    "title": "CSSConf AU",
+    "url": "https://2018.cssconf.com.au/",
+    "where": "Melbourne, AU",
+    "when": "March 20, 2018",
+    "month": "March",
     "submissionDeadline": "",
-    "country": "USA"
+    "country": "Australia"
   },
   {
     "title": "JSConf AU",
     "url": "https://2018.jsconfau.com/",
     "where": "Melbourne, AU",
     "when": "March 21-22, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "Australia"
-  },
-  {
-    "title": "CSSConf AU",
-    "url": "https://2018.cssconf.com.au/",
-    "where": "Melbourne, AU",
-    "when": "March 20, 2018",
     "month": "March",
     "submissionDeadline": "",
     "country": "Australia"
@@ -117,6 +126,15 @@
     "country": "Australia"
   },
   {
+    "title": "NG Conf",
+    "url": "https://www.ng-conf.org/",
+    "where": "Salt Lake City, UT",
+    "when": "April 18-20, 2018",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "ConvergeSE",
     "url": "http://convergese.com/",
     "where": "Columbia, SC",
@@ -124,23 +142,5 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
-  },
-  {
-    "title": "NgAtlanta",
-    "url": "http://ng-atl.org/",
-    "where": "Atlanta, GA",
-    "when": "January 30 - February 2, 2018",
-    "month": "January",
-    "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
-    "title": "JSConf Asia",
-    "url": "http://ng-atl.org/",
-    "where": "Singapore",
-    "when": "January 25-27, 2018",
-    "month": "January",
-    "submissionDeadline": "",
-    "country": "Singapore"
   }
 ]
