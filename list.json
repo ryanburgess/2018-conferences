@@ -133,5 +133,14 @@
     "month": "January",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "JSConf Asia",
+    "url": "http://ng-atl.org/",
+    "where": "Singapore",
+    "when": "January 25-27, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "Singapore"
   }
 ]
