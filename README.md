@@ -14,7 +14,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** January 25-26, 2018
     
-## [JSConf Asia](http://ng-atl.org/)
+## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
 
 **When:** January 25-27, 2018
