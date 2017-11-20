@@ -63,6 +63,15 @@
     "country": "Canada"
   },
   {
+    "title": "php[tek] 2018",
+    "url": "https://tek.phparch.com/",
+    "where": "Atlanta, GA",
+    "when": "May 30, 2018 - June 1, 2018",
+    "month": "May",
+    "submissionDeadline": "Dec 29, 2017",
+    "country": "USA"
+  },
+  {
     "title": "FullStack",
     "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
     "where": "London, UK",
