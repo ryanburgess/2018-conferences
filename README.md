@@ -39,6 +39,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** April 3-6, 2018
     
+## [php[tek] 2018](https://tek.phparch.com/)
+**Where:** Atlanta, GA
+
+**When:** May 30, 2018 - June 1, 2018
+    
 ## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
 **Where:** London, UK
 
