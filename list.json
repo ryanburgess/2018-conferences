@@ -142,5 +142,14 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "React Rally",
+    "url": "http://www.reactrally.com/",
+    "where": "Salt Lake City, UT",
+    "when": "August 24-25, 2018",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

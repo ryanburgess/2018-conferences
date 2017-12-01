@@ -84,6 +84,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** June 13-15, 2018
     
+## [React Rally](http://www.reactrally.com/)
+**Where:** Salt Lake City, UT
+
+**When:** August 24-25, 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
