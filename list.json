@@ -19,7 +19,7 @@
   },
   {
     "title": "JSConf Asia",
-    "url": "http://ng-atl.org/",
+    "url": "https://2018.jsconf.asia/",
     "where": "Singapore",
     "when": "January 25-27, 2018",
     "month": "January",
@@ -61,6 +61,15 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "Canada"
+  },
+  {
+    "title": "php[tek] 2018",
+    "url": "https://tek.phparch.com/",
+    "where": "Atlanta, GA",
+    "when": "May 30, 2018 - June 1, 2018",
+    "month": "May",
+    "submissionDeadline": "Dec 29, 2017",
+    "country": "USA"
   },
   {
     "title": "FullStack",
