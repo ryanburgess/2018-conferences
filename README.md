@@ -23,9 +23,9 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Atlanta, GA
 
 **When:** January 30 - February 2, 2018
-
-## [Index - San Francisco](https://developer.ibm.com/indexconf/)
-**Where:** San Francisco, CA **USA**
+    
+## [Index](https://developer.ibm.com/indexconf/)
+**Where:** San Francisco, CA
 
 **When:** February 20-22, 2018
     

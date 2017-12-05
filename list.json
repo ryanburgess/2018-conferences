@@ -36,6 +36,15 @@
     "country": "USA"
   },
   {
+    "title": "Index",
+    "url": "https://developer.ibm.com/indexconf/",
+    "where": "San Francisco, CA",
+    "when": "February 20-22, 2018",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "AssertJS",
     "url": "https://www.assertjs.com/",
     "where": "San Antonio, TX",
