@@ -44,6 +44,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** April 3-6, 2018
     
+## [RailsConf](https://railsconf.com/)
+**Where:** Pittsburgh, PA
+
+**When:** April 17-19, 2018
+    
+## [RevolutionConf](https://revolutionconf.com/)
+**Where:** Virginia Beach, VA
+
+**When:** May 17-18, 2018
+    
 ## [php[tek] 2018](https://tek.phparch.com/)
 **Where:** Atlanta, GA
 
@@ -98,6 +108,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Salt Lake City, UT
 
 **When:** August 24-25, 2018
+    
+## [RubyConf](http://rubyconf.org/)
+**Where:** Los Angeles, CA
+
+**When:** November 13-15, 2018
     
 ## Contributing
 1. Fork it

@@ -72,6 +72,24 @@
     "country": "Canada"
   },
   {
+    "title": "RailsConf",
+    "url": "https://railsconf.com/",
+    "where": "Pittsburgh, PA",
+    "when": "April 17-19, 2018",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "RevolutionConf",
+    "url": "https://revolutionconf.com/",
+    "where": "Virginia Beach, VA",
+    "when": "May 17-18, 2018",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "php[tek] 2018",
     "url": "https://tek.phparch.com/",
     "where": "Atlanta, GA",
@@ -167,6 +185,15 @@
     "where": "Salt Lake City, UT",
     "when": "August 24-25, 2018",
     "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "RubyConf",
+    "url": "http://rubyconf.org/",
+    "where": "Los Angeles, CA",
+    "when": "November 13-15, 2018",
+    "month": "November",
     "submissionDeadline": "",
     "country": "USA"
   }
