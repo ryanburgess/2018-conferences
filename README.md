@@ -24,6 +24,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** January 30 - February 2, 2018
     
+## [Rubyfuza](http://www.rubyfuza.org/)
+**Where:** Cape Town, South Africa
+
+**When:** February 1-3, 2018
+    
 ## [Index](https://developer.ibm.com/indexconf/)
 **Where:** San Francisco, CA
 
@@ -33,6 +38,26 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Antonio, TX
 
 **When:** February 22, 2018
+    
+## [ElixirDaze](http://www.elixirdaze.com/)
+**Where:** Denver, CO
+
+**When:** March 1-2, 2018
+    
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
+
+**When:** March 7-8, 2018
+    
+## [ReactFest](https://reactfest.com/)
+**Where:** London, UK
+
+**When:** March 9, 2018
+    
+## [GopherCon India](http://www.gophercon.in/)
+**Where:** Pune, India
+
+**When:** March 9-10, 2018
     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
@@ -48,6 +73,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Pittsburgh, PA
 
 **When:** April 17-19, 2018
+    
+## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
+**Where:** Amsterdam, NE
+
+**When:** May 8-9, 2018
+    
+## [Pycon](https://us.pycon.org/2018/)
+**Where:** Cleveland, OH
+
+**When:** May 9-17, 2018
     
 ## [RevolutionConf](https://revolutionconf.com/)
 **Where:** Virginia Beach, VA
