@@ -153,6 +153,15 @@
     "country": "Australia"
   },
   {
+    "title": "JazzCon.Tech",
+    "url": "http://jazzcon.tech/",
+    "where": "New Orleans, LA",
+    "when": "March 21-23, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "Deompress",
     "url": "https://2018.decompress.com.au/",
     "where": "Melbourne, AU",
@@ -160,6 +169,15 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "Australia"
+  },
+  {
+    "title": "VueConf.US",
+    "url": "http://vueconf.us/",
+    "where": "New Orleans, LA",
+    "when": "March 26-28, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   },
   {
     "title": "NG Conf",

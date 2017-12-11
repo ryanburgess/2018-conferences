@@ -89,10 +89,20 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 21-22, 2018
     
+## [JazzCon.Tech](http://jazzcon.tech/)
+**Where:** New Orleans, LA
+
+**When:** March 21-23, 2018
+    
 ## [Deompress](https://2018.decompress.com.au/)
 **Where:** Melbourne, AU
 
 **When:** March 23, 2018
+    
+## [VueConf.US](http://vueconf.us/)
+**Where:** New Orleans, LA
+
+**When:** March 26-28, 2018
     
 ## [NG Conf](https://www.ng-conf.org/)
 **Where:** Salt Lake City, UT
@@ -113,16 +123,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Los Angeles, CA
 
 **When:** November 13-15, 2018
-
-## [JazzCon.Tech](http://jazzcon.tech/)
-**Where:** New Orleans, LA
-
-**When:** March 21-23, 2018
-
-## [VueConf.US](http://vueconf.us/)
-**Where:** New Orleans, LA
-
-**When:** March 26-28, 2018
     
 ## Contributing
 1. Fork it
