@@ -23,7 +23,7 @@
     "where": "Singapore",
     "when": "January 25-27, 2018",
     "month": "January",
-    "submissionDeadline": "",
+    "submissionDeadline": "January 25, 2018",
     "country": "Singapore"
   },
   {
@@ -43,6 +43,15 @@
     "month": "February",
     "submissionDeadline": "",
     "country": "South Africa"
+  },
+  {
+    "title": "DevFest KC",
+    "url": "https://devfestkc.com/",
+    "where": "Kansas City, MO",
+    "when": "February 17, 2018",
+    "month": "February",
+    "submissionDeadline": "January 12, 2018",
+    "country": "USA"
   },
   {
     "title": "Index",
@@ -126,6 +135,15 @@
     "country": "USA"
   },
   {
+    "title": "JSHeroes",
+    "url": "https://jsheroes.io/",
+    "where": "Cluj-Napoca, Romania",
+    "when": "April 18-20, 2018",
+    "month": "April",
+    "submissionDeadline": "December 29, 2017",
+    "country": "Romania"
+  },
+  {
     "title": "Codemotion Amsterdam",
     "url": "https://amsterdam2018.codemotionworld.com",
     "where": "Amsterdam, NE",
@@ -153,6 +171,15 @@
     "country": "USA"
   },
   {
+    "title": "Front-Trends",
+    "url": "https://2018.front-trends.com/",
+    "where": "Warsaw, Poland",
+    "when": "May 24-25, 2018",
+    "month": "May",
+    "submissionDeadline": "March 31, 2018",
+    "country": "Poland"
+  },
+  {
     "title": "php[tek] 2018",
     "url": "https://tek.phparch.com/",
     "where": "Atlanta, GA",
@@ -167,7 +194,7 @@
     "where": "London, UK",
     "when": "July 11-13, 2018",
     "month": "July",
-    "submissionDeadline": "",
+    "submissionDeadline": "February 16, 2018",
     "country": "UK"
   },
   {

@@ -29,6 +29,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** February 1-3, 2018
     
+## [DevFest KC](https://devfestkc.com/)
+**Where:** Kansas City, MO
+
+**When:** February 17, 2018
+    
 ## [Index](https://developer.ibm.com/indexconf/)
 **Where:** San Francisco, CA
 
@@ -74,6 +79,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** April 17-19, 2018
     
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
+
+**When:** April 18-20, 2018
+    
 ## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
 **Where:** Amsterdam, NE
 
@@ -88,6 +98,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Virginia Beach, VA
 
 **When:** May 17-18, 2018
+    
+## [Front-Trends](https://2018.front-trends.com/)
+**Where:** Warsaw, Poland
+
+**When:** May 24-25, 2018
     
 ## [php[tek] 2018](https://tek.phparch.com/)
 **Where:** Atlanta, GA
