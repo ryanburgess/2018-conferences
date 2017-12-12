@@ -24,6 +24,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** January 30 - February 2, 2018
     
+## [ng-europe](https://ngeurope.org/)
+**Where:** Paris, France
+
+**When:** February 1-2, 2018
+    
 ## [Rubyfuza](http://www.rubyfuza.org/)
 **Where:** Cape Town, South Africa
 
@@ -49,10 +54,20 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 1-2, 2018
     
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
+
+**When:** March 1-2, 2018
+    
 ## [Git Merge](https://git-merge.com/)
 **Where:** Barcelona, Spain
 
 **When:** March 7-8, 2018
+    
+## [ConFoo](https://confoo.ca/en/yul2018)
+**Where:** Montreal, QC
+
+**When:** March 7-9, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
@@ -64,10 +79,35 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 9-10, 2018
     
+## [CSSConf AU](https://2018.cssconf.com.au/)
+**Where:** Melbourne, AU
+
+**When:** March 20, 2018
+    
+## [JSConf AU](https://2018.jsconfau.com/)
+**Where:** Melbourne, AU
+
+**When:** March 21-22, 2018
+    
+## [JazzCon.Tech](http://jazzcon.tech/)
+**Where:** New Orleans, LA
+
+**When:** March 21-23, 2018
+    
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
 
 **When:** March 23, 2018
+    
+## [Deompress](https://2018.decompress.com.au/)
+**Where:** Melbourne, AU
+
+**When:** March 23, 2018
+    
+## [VueConf.US](http://vueconf.us/)
+**Where:** New Orleans, LA
+
+**When:** March 26-28, 2018
     
 ## [ForwardJS Ottawa](https://forwardjs.com/ottawa)
 **Where:** Ottawa, ON
@@ -81,6 +121,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
     
 ## [JSHeroes](https://jsheroes.io/)
 **Where:** Cluj-Napoca, Romania
+
+**When:** April 18-20, 2018
+    
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** April 18-20, 2018
     
@@ -109,60 +154,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** May 30, 2018 - June 1, 2018
     
-## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
-**Where:** London, UK
-
-**When:** July 11-13, 2018
-    
-## [ConFoo](https://confoo.ca/en/yul2018)
-**Where:** Montreal, QC
-
-**When:** March 7-9, 2018
-    
-## [ng-europe](https://ngeurope.org/)
-**Where:** Paris, France
-
-**When:** February 1-2, 2018
-    
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
-
-**When:** March 1-2, 2018
-    
-## [CSSConf AU](https://2018.cssconf.com.au/)
-**Where:** Melbourne, AU
-
-**When:** March 20, 2018
-    
-## [JSConf AU](https://2018.jsconfau.com/)
-**Where:** Melbourne, AU
-
-**When:** March 21-22, 2018
-    
-## [JazzCon.Tech](http://jazzcon.tech/)
-**Where:** New Orleans, LA
-
-**When:** March 21-23, 2018
-    
-## [Deompress](https://2018.decompress.com.au/)
-**Where:** Melbourne, AU
-
-**When:** March 23, 2018
-    
-## [VueConf.US](http://vueconf.us/)
-**Where:** New Orleans, LA
-
-**When:** March 26-28, 2018
-    
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
-
-**When:** April 18-20, 2018
-    
 ## [ConvergeSE](http://convergese.com/)
 **Where:** Columbia, SC
 
 **When:** June 13-15, 2018
+    
+## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
+**Where:** London, UK
+
+**When:** July 11-13, 2018
     
 ## [React Rally](http://www.reactrally.com/)
 **Where:** Salt Lake City, UT

@@ -36,6 +36,15 @@
     "country": "USA"
   },
   {
+    "title": "ng-europe",
+    "url": "https://ngeurope.org/",
+    "where": "Paris, France",
+    "when": "February 1-2, 2018",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
     "title": "Rubyfuza",
     "url": "http://www.rubyfuza.org/",
     "where": "Cape Town, South Africa",
@@ -81,6 +90,15 @@
     "country": "USA"
   },
   {
+    "title": "NG Vikings",
+    "url": "https://ngvikings.org/",
+    "where": "Helsinki, Finland",
+    "when": "March 1-2, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Finland"
+  },
+  {
     "title": "Git Merge",
     "url": "https://git-merge.com/",
     "where": "Barcelona, Spain",
@@ -88,6 +106,15 @@
     "month": "March",
     "submissionDeadline": "January 19, 2018",
     "country": "Spain"
+  },
+  {
+    "title": "ConFoo",
+    "url": "https://confoo.ca/en/yul2018",
+    "where": "Montreal, QC",
+    "when": "March 7-9, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Canada"
   },
   {
     "title": "ReactFest",
@@ -108,6 +135,33 @@
     "country": "India"
   },
   {
+    "title": "CSSConf AU",
+    "url": "https://2018.cssconf.com.au/",
+    "where": "Melbourne, AU",
+    "when": "March 20, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Australia"
+  },
+  {
+    "title": "JSConf AU",
+    "url": "https://2018.jsconfau.com/",
+    "where": "Melbourne, AU",
+    "when": "March 21-22, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Australia"
+  },
+  {
+    "title": "JazzCon.Tech",
+    "url": "http://jazzcon.tech/",
+    "where": "New Orleans, LA",
+    "when": "March 21-23, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "RenderConf",
     "url": "https://2018.render-conf.com/",
     "where": "Oxford, UK",
@@ -115,6 +169,24 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "UK"
+  },
+  {
+    "title": "Deompress",
+    "url": "https://2018.decompress.com.au/",
+    "where": "Melbourne, AU",
+    "when": "March 23, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "Australia"
+  },
+  {
+    "title": "VueConf.US",
+    "url": "http://vueconf.us/",
+    "where": "New Orleans, LA",
+    "when": "March 26-28, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   },
   {
     "title": "ForwardJS Ottawa",
@@ -142,6 +214,15 @@
     "month": "April",
     "submissionDeadline": "December 29, 2017",
     "country": "Romania"
+  },
+  {
+    "title": "NG Conf",
+    "url": "https://www.ng-conf.org/",
+    "where": "Salt Lake City, UT",
+    "when": "April 18-20, 2018",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
   },
   {
     "title": "Codemotion Amsterdam",
@@ -189,96 +270,6 @@
     "country": "USA"
   },
   {
-    "title": "FullStack",
-    "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
-    "where": "London, UK",
-    "when": "July 11-13, 2018",
-    "month": "July",
-    "submissionDeadline": "February 16, 2018",
-    "country": "UK"
-  },
-  {
-    "title": "ConFoo",
-    "url": "https://confoo.ca/en/yul2018",
-    "where": "Montreal, QC",
-    "when": "March 7-9, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "Canada"
-  },
-  {
-    "title": "ng-europe",
-    "url": "https://ngeurope.org/",
-    "where": "Paris, France",
-    "when": "February 1-2, 2018",
-    "month": "February",
-    "submissionDeadline": "",
-    "country": "France"
-  },
-  {
-    "title": "NG Vikings",
-    "url": "https://ngvikings.org/",
-    "where": "Helsinki, Finland",
-    "when": "March 1-2, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "Finland"
-  },
-  {
-    "title": "CSSConf AU",
-    "url": "https://2018.cssconf.com.au/",
-    "where": "Melbourne, AU",
-    "when": "March 20, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "Australia"
-  },
-  {
-    "title": "JSConf AU",
-    "url": "https://2018.jsconfau.com/",
-    "where": "Melbourne, AU",
-    "when": "March 21-22, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "Australia"
-  },
-  {
-    "title": "JazzCon.Tech",
-    "url": "http://jazzcon.tech/",
-    "where": "New Orleans, LA",
-    "when": "March 21-23, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
-    "title": "Deompress",
-    "url": "https://2018.decompress.com.au/",
-    "where": "Melbourne, AU",
-    "when": "March 23, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "Australia"
-  },
-  {
-    "title": "VueConf.US",
-    "url": "http://vueconf.us/",
-    "where": "New Orleans, LA",
-    "when": "March 26-28, 2018",
-    "month": "March",
-    "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
-    "title": "NG Conf",
-    "url": "https://www.ng-conf.org/",
-    "where": "Salt Lake City, UT",
-    "when": "April 18-20, 2018",
-    "month": "April",
-    "submissionDeadline": "",
-    "country": "USA"
-  },
-  {
     "title": "ConvergeSE",
     "url": "http://convergese.com/",
     "where": "Columbia, SC",
@@ -286,6 +277,15 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "FullStack",
+    "url": "https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things",
+    "where": "London, UK",
+    "when": "July 11-13, 2018",
+    "month": "July",
+    "submissionDeadline": "February 16, 2018",
+    "country": "UK"
   },
   {
     "title": "React Rally",
