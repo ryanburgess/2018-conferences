@@ -135,6 +135,15 @@
     "country": "India"
   },
   {
+    "title": "UpFrontConf",
+    "url": "http://www.upfrontconf.com/",
+    "where": "Manchester, UK",
+    "when": "March 16, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "UK"
+  },
+  {
     "title": "CSSConf AU",
     "url": "https://2018.cssconf.com.au/",
     "where": "Melbourne, AU",
