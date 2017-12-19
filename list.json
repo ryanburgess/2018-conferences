@@ -90,6 +90,15 @@
     "country": "USA"
   },
   {
+    "title": "JSConf Iceland",
+    "url": "https://2018.jsconf.is/",
+    "where": "Reykjavik, Iceland",
+    "when": "March 1-2, 2018",
+    "month": "March",
+    "submissionDeadline": "November 1st, 2017",
+    "country": "Iceland"
+  },
+  {
     "title": "NG Vikings",
     "url": "https://ngvikings.org/",
     "where": "Helsinki, Finland",
