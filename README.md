@@ -34,6 +34,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** February 1-3, 2018
     
+## [Forward JS](https://forwardjs.com/)
+**Where:** San Francisco, CA
+
+**When:** February 11-16, 2018
+    
 ## [DevFest KC](https://devfestkc.com/)
 **Where:** Kansas City, MO
 
