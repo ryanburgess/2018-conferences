@@ -297,6 +297,15 @@
     "country": "USA"
   },
   {
+    "title": "DEVit",
+    "url": "http://devitconf.org/",
+    "where": "Thessaloniki, Greece",
+    "when": "June 9, 2018",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Greece"
+  },
+  {
     "title": "ConvergeSE",
     "url": "http://convergese.com/",
     "where": "Columbia, SC",

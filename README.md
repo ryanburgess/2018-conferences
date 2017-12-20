@@ -169,6 +169,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** May 30, 2018 - June 1, 2018
     
+## [DEVit](http://devitconf.org/)
+**Where:** Thessaloniki, Greece
+
+**When:** June 9, 2018
+    
 ## [ConvergeSE](http://convergese.com/)
 **Where:** Columbia, SC
 
