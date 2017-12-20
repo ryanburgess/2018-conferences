@@ -189,10 +189,17 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** November 13-15, 2018
     
+
 ## [ReactiveConf](https://reactiveconf.com)
 **Where:** Bratislava, Slovakia
 
 **When:** October, 2018
+
+## [React Finland](https://react-finland.fi)
+**Where:** Helsinki, Finland
+
+**When:** April 24-26, 2018
+
     
 ## Contributing
 1. Fork it
