@@ -79,6 +79,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 9-10, 2018
     
+## [UpFrontConf](http://www.upfrontconf.com/)
+**Where:** Manchester, UK
+
+**When:** March 16, 2018
+    
 ## [CSSConf AU](https://2018.cssconf.com.au/)
 **Where:** Melbourne, AU
 
