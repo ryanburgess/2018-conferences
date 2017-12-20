@@ -331,5 +331,14 @@
     "month": "November",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "React Finland",
+    "url": "https://react-finland.fi",
+    "where": "Helsinki, Finland",
+    "when": "April 24-26, 2018",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "Slovakia"
   }
 ]
