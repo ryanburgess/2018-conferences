@@ -331,5 +331,14 @@
     "month": "November",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "ReactiveConf",
+    "url": "https://reactiveconf.com",
+    "where": "Bratislava, Slovakia",
+    "when": "October, 2018",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "Slovakia"
   }
 ]

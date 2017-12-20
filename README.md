@@ -189,6 +189,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** November 13-15, 2018
     
+## [ReactiveConf](https://reactiveconf.com)
+**Where:** Bratislava, Slovakia
+
+**When:** October, 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
