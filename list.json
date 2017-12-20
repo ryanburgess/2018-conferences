@@ -333,6 +333,15 @@
     "country": "USA"
   },
   {
+    "title": "ReactiveConf",
+    "url": "https://reactiveconf.com",
+    "where": "Bratislava, Slovakia",
+    "when": "October, 2018",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "React Finland",
     "url": "https://react-finland.fi",
     "where": "Helsinki, Finland",
