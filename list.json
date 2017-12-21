@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "Script",
     "url": "https://scriptconf.org/",
     "where": "Linz, Austria",
@@ -211,6 +210,15 @@
     "url": "http://vueconf.us/",
     "where": "New Orleans, LA",
     "when": "March 26-28, 2018",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "PerfMatters",
+    "url": "https://perfmattersconf.com/",
+    "where": "Redwood City, CA",
+    "when": "March 27-28, 2018",
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
