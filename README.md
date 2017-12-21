@@ -89,6 +89,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 9-10, 2018
     
+## [EmberConf](http://emberconf.com/)
+**Where:** Portland, Oregon
+
+**When:** March 13-14, 2018
+    
 ## [UpFrontConf](http://www.upfrontconf.com/)
 **Where:** Manchester, UK
 
