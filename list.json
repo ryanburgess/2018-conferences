@@ -314,6 +314,15 @@
     "country": "USA"
   },
   {
+    "title": "Frontend United 2018",
+    "url": "https://www.frontendunited.org",
+    "where": "Utrecht, Netherlands",
+    "when": "May 28, 2018 - June 2, 2018",
+    "month": "May",
+    "submissionDeadline": "TBC",
+    "country": "Netherlands"
+  },
+  {
     "title": "DEVit",
     "url": "http://devitconf.org/",
     "where": "Thessaloniki, Greece",
