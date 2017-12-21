@@ -179,6 +179,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** May 30, 2018 - June 1, 2018
     
+## [Frontend United 2018](https://www.frontendunited.org)
+**Where:** Utrecht, Netherlands
+
+**When:** May 28, 2018 - June 2, 2018
+    
 ## [DEVit](http://devitconf.org/)
 **Where:** Thessaloniki, Greece
 
