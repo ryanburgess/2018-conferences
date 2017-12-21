@@ -214,6 +214,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** April 24-26, 2018
     
+## [React Next](http://react-next.com/)
+**Where:** Tel Aviv, Israel
+
+**When:** September 6, 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`

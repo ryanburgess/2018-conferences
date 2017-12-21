@@ -375,5 +375,14 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "Slovakia"
+  },
+  {
+    "title": "React Next",
+    "url": "http://react-next.com/",
+    "where": "Tel Aviv, Israel",
+    "when": "September 6, 2018",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "Israel"
   }
 ]
