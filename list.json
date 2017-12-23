@@ -268,6 +268,15 @@
     "submissionDeadline": "",
     "country": "USA"
   },
+   {
+    "title": "ScaleConf Colombia",
+    "url": "http://www.scaleconfco.com",
+    "where": "Medellin, Colombia",
+    "when": "April 27-28, 2018",
+    "month": "April",
+    "submissionDeadline": "January 14, 2018",
+    "country": "Colombia"
+  },
   {
     "title": "Codemotion Amsterdam",
     "url": "https://amsterdam2018.codemotionworld.com",
