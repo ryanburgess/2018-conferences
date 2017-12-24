@@ -154,6 +154,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** April 18-20, 2018
     
+## [ScaleConf Colombia](http://www.scaleconfco.com)
+**Where:** Medellin, Colombia
+
+**When:** April 27-28, 2018
+    
 ## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
 **Where:** Amsterdam, NE
 
