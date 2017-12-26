@@ -229,6 +229,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** September 6, 2018
     
+## [WordCamp Europe 2018](https://2018.europe.wordcamp.org/)
+**Where:** Belgrade, Serbia
+
+**When:** June 14-16, 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
