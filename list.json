@@ -17,6 +17,24 @@
     "country": "Austria"
   },
   {
+    "title": "Awwwards Berlin",
+    "url": "https://conference.awwwards.com/berlin",
+    "where": "Berlin, Germany",
+    "when": "February 7-9, 2018",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "Germany"
+  },
+  {
+    "title": "Awwwards SF",
+    "url": "https://conference.awwwards.com/san-francisco",
+    "where": "San Francisco, CA",
+    "when": "May 10-11, 2018",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "JSConf Asia",
     "url": "https://2018.jsconf.asia/",
     "where": "Singapore",
