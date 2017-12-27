@@ -402,5 +402,13 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "Israel"
+  },
+  {
+    "title": "WordCamp Europe 2018",
+    "url": "https://2018.europe.wordcamp.org/",
+    "where": "Belgrade, Serbia",
+    "when": "June 14-16, 2018",
+    "month": "June",
+    "submissionDeadline": ""
   }
 ]
