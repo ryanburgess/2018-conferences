@@ -9,6 +9,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** January 19, 2018
     
+## [CSSConf EU](https://2018.cssconf.eu/)
+**Where:** Berlin, Germany
+
+**When:** June 1, 2018
+    
 ## [Agent](https://www.agent.sh/)
 **Where:** Dornbirn, Austria
 
