@@ -8,6 +8,15 @@
     "country": "Austria"
   },
   {
+    "title": "CSSConf EU",
+    "url": "https://2018.cssconf.eu/",
+    "where": "Berlin, Germany",
+    "when": "June 1, 2018",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Germany"
+  },
+  {
     "title": "Agent",
     "url": "https://www.agent.sh/",
     "where": "Dornbirn, Austria",
