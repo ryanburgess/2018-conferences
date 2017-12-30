@@ -144,7 +144,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 23, 2018
     
-## [Deompress](https://2018.decompress.com.au/)
+## [Decompress](https://2018.decompress.com.au/)
 **Where:** Melbourne, AU
 
 **When:** March 23, 2018
