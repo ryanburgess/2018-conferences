@@ -17,6 +17,24 @@
     "country": "Austria"
   },
   {
+    "title": "dotSwift",
+    "url": "https://www.dotswift.io/",
+    "where": "Paris, France",
+    "when": "January 29, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
+    "title": "dotAi / dotScale",
+    "url": "https://www.dotai.io/",
+    "where": "Paris, France",
+    "when": "May 31 - June 1, 2018",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
     "title": "Awwwards Berlin",
     "url": "https://conference.awwwards.com/berlin",
     "where": "Berlin, Germany",

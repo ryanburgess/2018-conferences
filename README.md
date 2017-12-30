@@ -14,6 +14,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** January 25-26, 2018
     
+## [dotSwift](https://www.dotswift.io/)
+**Where:** Paris, France
+
+**When:** January 29, 2018
+    
+## [dotAi / dotScale](https://www.dotai.io/)
+**Where:** Paris, France
+
+**When:** May 31 - June 1, 2018
+
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
 
