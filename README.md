@@ -23,6 +23,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Paris, France
 
 **When:** May 31 - June 1, 2018
+
+## [Awwwards Berlin](https://conference.awwwards.com/berlin)
+**Where:** Berlin, Germany
+
+**When:** February 7-9, 2018
+    
+## [Awwwards SF](https://conference.awwwards.com/san-francisco)
+**Where:** San Francisco, CA
+
+**When:** May 10-11, 2018
     
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
