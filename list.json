@@ -455,5 +455,13 @@
     "when": "June 14-16, 2018",
     "month": "June",
     "submissionDeadline": ""
+  },
+  {
+    "title": "DevFestMN",
+    "url": "https://devfest.mn/",
+    "where": "Minneapolis, MN",
+    "when": "February 10, 2018",
+    "month": "February",
+    "submissionDeadline": ""
   }
 ]

@@ -28,7 +28,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Paris, France
 
 **When:** May 31 - June 1, 2018
-
+    
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
 
@@ -258,6 +258,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Belgrade, Serbia
 
 **When:** June 14-16, 2018
+    
+## [DevFestMN](https://devfest.mn/)
+**Where:** Minneapolis, MN
+
+**When:** February 10, 2018
     
 ## Contributing
 1. Fork it
