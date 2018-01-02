@@ -455,5 +455,13 @@
     "when": "June 14-16, 2018",
     "month": "June",
     "submissionDeadline": ""
+  },
+  {
+    "title": "JS Kongress Munich 2018 - The Future of JavaScript",
+    "url": "https://2018.js-kongress.com/",
+    "where": "Munich, Germany",
+    "when": "November 26-27, 2018",
+    "month": "November",
+    "submissionDeadline": ""
   }
 ]
