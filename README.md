@@ -228,6 +228,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** London, UK
 
 **When:** July 11-13, 2018
+
+## [AngularCamp](https://angularcamp.org)
+**Where:** Barcelona, Spain
+
+**When:** July 18-20, 2018
     
 ## [React Rally](http://www.reactrally.com/)
 **Where:** Salt Lake City, UT
