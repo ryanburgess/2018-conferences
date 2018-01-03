@@ -251,7 +251,7 @@
     "country": "UK"
   },
   {
-    "title": "Deompress",
+    "title": "Decompress",
     "url": "https://2018.decompress.com.au/",
     "where": "Melbourne, AU",
     "when": "March 23, 2018",
@@ -274,6 +274,15 @@
     "where": "Redwood City, CA",
     "when": "March 27-28, 2018",
     "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "An Event Apart - Seattle",
+    "url": "https://aneventapart.com/event/seattle-2018",
+    "where": "Seattle, WA",
+    "when": "April 2-4, 2018",
+    "month": "April",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -386,6 +395,15 @@
     "country": "Greece"
   },
   {
+    "title": "An Event Apart - Boston",
+    "url": "https://aneventapart.com/event/boston-2018",
+    "where": "Boston, MA",
+    "when": "June 25-27, 2018",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "ConvergeSE",
     "url": "http://convergese.com/",
     "where": "Columbia, SC",
@@ -404,6 +422,24 @@
     "country": "UK"
   },
   {
+    "title": "An Event Apart - Washington DC",
+    "url": "https://aneventapart.com/event/washington-dc-2018",
+    "where": "Washington, DC",
+    "when": "July 30 - Aug 1, 2018",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  }
+    "title": "AngularCamp",
+    "url": "https://angularcamp.org",
+    "where": "Barcelona, Spain",
+    "when": "July 18-20, 2018",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "Spain"
+  },
+  {
     "title": "React Rally",
     "url": "http://www.reactrally.com/",
     "where": "Salt Lake City, UT",
@@ -413,11 +449,38 @@
     "country": "USA"
   },
   {
+    "title": "An Event Apart - Chicago",
+    "url": "https://aneventapart.com/event/chicago-2018",
+    "where": "Chicago, IL",
+    "when": "August 27-29, 2018",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "An Event Apart - Orlando",
+    "url": "https://aneventapart.com/event/orlando-2018",
+    "where": "Orlando, FL",
+    "when": "October 8-10, 2018",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "RubyConf",
     "url": "http://rubyconf.org/",
     "where": "Los Angeles, CA",
     "when": "November 13-15, 2018",
     "month": "November",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "An Event Apart - San Francisco",
+    "url": "https://aneventapart.com/event/san-francisco-2018",
+    "where": "San Francisco, CA",
+    "when": "December 10-12, 2018",
+    "month": "December",
     "submissionDeadline": "",
     "country": "USA"
   },
@@ -462,6 +525,14 @@
     "where": "Munich, Germany",
     "when": "November 26-27, 2018",
     "month": "November",
+    "submissionDeadline": ""
+  },
+  {
+    "title": "DevFestMN",
+    "url": "https://devfest.mn/",
+    "where": "Minneapolis, MN",
+    "when": "February 10, 2018",
+    "month": "February",
     "submissionDeadline": ""
   }
 ]
