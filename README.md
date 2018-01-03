@@ -159,6 +159,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 27-28, 2018
     
+## [An Event Apart - Seattle](https://aneventapart.com/event/seattle-2018)
+**Where:** Seattle, WA
+
+**When:** April 2-4, 2018
+    
 ## [ForwardJS Ottawa](https://forwardjs.com/ottawa)
 **Where:** Ottawa, ON
 
@@ -219,6 +224,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** June 9, 2018
     
+## [An Event Apart - Boston](https://aneventapart.com/event/boston-2018)
+**Where:** Boston, MA
+
+**When:** June 25-27, 2018
+    
 ## [ConvergeSE](http://convergese.com/)
 **Where:** Columbia, SC
 
@@ -234,15 +244,35 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** July 18-20, 2018
     
+## [An Event Apart - Washington DC](https://aneventapart.com/event/washington-dc-2018)
+**Where:** Washington, DC
+
+**When:** July 30 - Aug 1, 2018
+    
 ## [React Rally](http://www.reactrally.com/)
 **Where:** Salt Lake City, UT
 
 **When:** August 24-25, 2018
     
+## [An Event Apart - Chicago](https://aneventapart.com/event/chicago-2018)
+**Where:** Chicago, IL
+
+**When:** August 27-29, 2018
+    
+## [An Event Apart - Orlando](https://aneventapart.com/event/orlando-2018)
+**Where:** Orlando, FL
+
+**When:** October 8-10, 2018
+    
 ## [RubyConf](http://rubyconf.org/)
 **Where:** Los Angeles, CA
 
 **When:** November 13-15, 2018
+    
+## [An Event Apart - San Francisco](https://aneventapart.com/event/san-francisco-2018)
+**Where:** San Francisco, CA
+
+**When:** December 10-12, 2018
     
 ## [ReactiveConf](https://reactiveconf.com)
 **Where:** Bratislava, Slovakia
