@@ -8,6 +8,15 @@
     "country": "Austria"
   },
   {
+    "title": "CSSConf EU",
+    "url": "https://2018.cssconf.eu/",
+    "where": "Berlin, Germany",
+    "when": "June 1, 2018",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Germany"
+  },
+  {
     "title": "Agent",
     "url": "https://www.agent.sh/",
     "where": "Dornbirn, Austria",
@@ -15,6 +24,42 @@
     "month": "January",
     "submissionDeadline": "",
     "country": "Austria"
+  },
+  {
+    "title": "dotSwift",
+    "url": "https://www.dotswift.io/",
+    "where": "Paris, France",
+    "when": "January 29, 2018",
+    "month": "January",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
+    "title": "dotAi / dotScale",
+    "url": "https://www.dotai.io/",
+    "where": "Paris, France",
+    "when": "May 31 - June 1, 2018",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "France"
+  },
+  {
+    "title": "Awwwards Berlin",
+    "url": "https://conference.awwwards.com/berlin",
+    "where": "Berlin, Germany",
+    "when": "February 7-9, 2018",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "Germany"
+  },
+  {
+    "title": "Awwwards SF",
+    "url": "https://conference.awwwards.com/san-francisco",
+    "where": "San Francisco, CA",
+    "when": "May 10-11, 2018",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
   },
   {
     "title": "JSConf Asia",
@@ -206,7 +251,7 @@
     "country": "UK"
   },
   {
-    "title": "Deompress",
+    "title": "Decompress",
     "url": "https://2018.decompress.com.au/",
     "where": "Melbourne, AU",
     "when": "March 23, 2018",
@@ -276,6 +321,15 @@
     "month": "April",
     "submissionDeadline": "",
     "country": "USA"
+  },
+   {
+    "title": "ScaleConf Colombia",
+    "url": "http://www.scaleconfco.com",
+    "where": "Medellin, Colombia",
+    "when": "April 27-28, 2018",
+    "month": "April",
+    "submissionDeadline": "January 14, 2018",
+    "country": "Colombia"
   },
   {
     "title": "Codemotion Amsterdam",
@@ -376,6 +430,15 @@
     "submissionDeadline": "",
     "country": "USA"
   },
+  }
+    "title": "AngularCamp",
+    "url": "https://angularcamp.org",
+    "where": "Barcelona, Spain",
+    "when": "July 18-20, 2018",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "Spain"
+  },
   {
     "title": "React Rally",
     "url": "http://www.reactrally.com/",
@@ -447,5 +510,13 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "Israel"
+  },
+  {
+    "title": "WordCamp Europe 2018",
+    "url": "https://2018.europe.wordcamp.org/",
+    "where": "Belgrade, Serbia",
+    "when": "June 14-16, 2018",
+    "month": "June",
+    "submissionDeadline": ""
   }
 ]

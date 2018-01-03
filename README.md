@@ -9,10 +9,35 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** January 19, 2018
     
+## [CSSConf EU](https://2018.cssconf.eu/)
+**Where:** Berlin, Germany
+
+**When:** June 1, 2018
+    
 ## [Agent](https://www.agent.sh/)
 **Where:** Dornbirn, Austria
 
 **When:** January 25-26, 2018
+    
+## [dotSwift](https://www.dotswift.io/)
+**Where:** Paris, France
+
+**When:** January 29, 2018
+    
+## [dotAi / dotScale](https://www.dotai.io/)
+**Where:** Paris, France
+
+**When:** May 31 - June 1, 2018
+
+## [Awwwards Berlin](https://conference.awwwards.com/berlin)
+**Where:** Berlin, Germany
+
+**When:** February 7-9, 2018
+    
+## [Awwwards SF](https://conference.awwwards.com/san-francisco)
+**Where:** San Francisco, CA
+
+**When:** May 10-11, 2018
     
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
@@ -119,7 +144,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 23, 2018
     
-## [Deompress](https://2018.decompress.com.au/)
+## [Decompress](https://2018.decompress.com.au/)
 **Where:** Melbourne, AU
 
 **When:** March 23, 2018
@@ -158,6 +183,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Salt Lake City, UT
 
 **When:** April 18-20, 2018
+    
+## [ScaleConf Colombia](http://www.scaleconfco.com)
+**Where:** Medellin, Colombia
+
+**When:** April 27-28, 2018
     
 ## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
 **Where:** Amsterdam, NE
@@ -208,6 +238,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** London, UK
 
 **When:** July 11-13, 2018
+
+## [AngularCamp](https://angularcamp.org)
+**Where:** Barcelona, Spain
+
+**When:** July 18-20, 2018
     
 ## [An Event Apart - Washington DC](https://aneventapart.com/event/washington-dc-2018)
 **Where:** Washington, DC
@@ -253,6 +288,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Tel Aviv, Israel
 
 **When:** September 6, 2018
+    
+## [WordCamp Europe 2018](https://2018.europe.wordcamp.org/)
+**Where:** Belgrade, Serbia
+
+**When:** June 14-16, 2018
     
 ## Contributing
 1. Fork it
