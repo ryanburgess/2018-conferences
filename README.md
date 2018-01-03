@@ -294,10 +294,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** June 14-16, 2018
     
+## [JS Kongress Munich 2018 - The Future of JavaScript](https://2018.js-kongress.com/)
+**Where:** Munich, Germany
+
+**When:** November 26-27, 2018
+
 ## [DevFestMN](https://devfest.mn/)
 **Where:** Minneapolis, MN
 
 **When:** February 10, 2018
+
     
 ## Contributing
 1. Fork it
