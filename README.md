@@ -238,16 +238,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** London, UK
 
 **When:** July 11-13, 2018
-
-## [AngularCamp](https://angularcamp.org)
-**Where:** Barcelona, Spain
-
-**When:** July 18-20, 2018
     
 ## [An Event Apart - Washington DC](https://aneventapart.com/event/washington-dc-2018)
 **Where:** Washington, DC
 
 **When:** July 30 - Aug 1, 2018
+    
+## [AngularCamp](https://angularcamp.org)
+**Where:** Barcelona, Spain
+
+**When:** July 18-20, 2018
     
 ## [React Rally](http://www.reactrally.com/)
 **Where:** Salt Lake City, UT
@@ -298,12 +298,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Munich, Germany
 
 **When:** November 26-27, 2018
-
+    
 ## [DevFestMN](https://devfest.mn/)
 **Where:** Minneapolis, MN
 
 **When:** February 10, 2018
-
     
 ## Contributing
 1. Fork it
