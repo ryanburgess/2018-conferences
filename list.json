@@ -534,5 +534,23 @@
     "when": "February 10, 2018",
     "month": "February",
     "submissionDeadline": ""
+  },
+  {
+    "title": "CodeStock",
+    "url": "http://www.codestock.org/",
+    "where": "Knoxville, TN",
+    "when": "April 20-21, 2018",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "USA"
+  },,
+  {
+    "title": "Scenic City Summit",
+    "url": "https://www.sceniccitysummit.com/",
+    "where": "Chattanooga, TN",
+    "when": "August 17, 2018",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
