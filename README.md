@@ -304,6 +304,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** February 10, 2018
     
+## [CodeStock](http://www.codestock.org/)
+**Where:** Knoxville, TN
+
+**When:** April 20-21, 2018
+    
+## [Scenic City Summit](https://www.sceniccitysummit.com/)
+**Where:** Chattanooga, TN
+
+**When:** August 17, 2018
+    
 ## Contributing
 1. Fork it
 2. Add your conference to `list.json`
