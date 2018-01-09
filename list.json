@@ -332,6 +332,15 @@
     "country": "Colombia"
   },
   {
+    "title": "OFFF Barcelona",
+    "url": "http://offf.barcelona/",
+    "where": "Barcelona, Spain",
+    "when": "May 24-26, 2018",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "Spain"
+  },
+  {
     "title": "Codemotion Amsterdam",
     "url": "https://amsterdam2018.codemotionworld.com",
     "where": "Amsterdam, NE",
