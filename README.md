@@ -12,12 +12,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [Agent](https://www.agent.sh/)
 **Where:** Dornbirn, Austria
 
-**When:** 25 January - 26 January, 2018
+**When:** 25 - 26 January, 2018
     
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
 
-**When:** 25 January - 27 January, 2018
+**When:** 25 - 27 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -32,17 +32,17 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [Rubyfuza](http://www.rubyfuza.org/)
 **Where:** Cape Town, South Africa
 
-**When:** 1 February - 3 February, 2018
+**When:** 1 - 3 February, 2018
     
 ## [ng-europe](https://ngeurope.org/)
 **Where:** Paris, France
 
-**When:** 1 February - 2 February, 2018
+**When:** 1 - 2 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
 
-**When:** 7 February - 9 February, 2018
+**When:** 7 - 9 February, 2018
     
 ## [DevFestMN](https://devfest.mn/)
 **Where:** Minneapolis, MN
@@ -52,7 +52,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [Forward JS](https://forwardjs.com/)
 **Where:** San Francisco, CA
 
-**When:** 11 February - 16 February, 2018
+**When:** 11 - 16 February, 2018
     
 ## [DevFest KC](https://devfestkc.com/)
 **Where:** Kansas City, MO
@@ -62,7 +62,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [Index](https://developer.ibm.com/indexconf/)
 **Where:** San Francisco, CA
 
-**When:** 20 February - 22 February, 2018
+**When:** 20 - 22 February, 2018
     
 ## [AssertJS](https://www.assertjs.com/)
 **Where:** San Antonio, TX
@@ -72,27 +72,27 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
-**When:** 1 March - 2 March, 2018
+**When:** 1 - 2 March, 2018
     
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
 
-**When:** 1 March - 2 March, 2018
+**When:** 1 - 2 March, 2018
     
 ## [JSConf Iceland](https://2018.jsconf.is/)
 **Where:** Reykjavik, Iceland
 
-**When:** 1 March - 2 March, 2018
+**When:** 1 - 2 March, 2018
     
 ## [Git Merge](https://git-merge.com/)
 **Where:** Barcelona, Spain
 
-**When:** 7 March - 8 March, 2018
+**When:** 7 - 8 March, 2018
     
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
 
-**When:** 7 March - 9 March, 2018
+**When:** 7 - 9 March, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
@@ -102,12 +102,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [GopherCon India](http://www.gophercon.in/)
 **Where:** Pune, India
 
-**When:** 9 March - 10 March, 2018
+**When:** 9 - 10 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
 
-**When:** 13 March - 14 March, 2018
+**When:** 13 - 14 March, 2018
     
 ## [UpFrontConf](http://www.upfrontconf.com/)
 **Where:** Manchester, UK
@@ -122,12 +122,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
-**When:** 21 March - 22 March, 2018
+**When:** 21 - 22 March, 2018
     
 ## [JazzCon.Tech](http://jazzcon.tech/)
 **Where:** New Orleans, LA
 
-**When:** 21 March - 23 March, 2018
+**When:** 21 - 23 March, 2018
     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
@@ -142,82 +142,82 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [VueConf.US](http://vueconf.us/)
 **Where:** New Orleans, LA
 
-**When:** 26 March - 28 March, 2018
+**When:** 26 - 28 March, 2018
     
 ## [PerfMatters](https://perfmattersconf.com/)
 **Where:** Redwood City, CA
 
-**When:** 27 March - 28 March, 2018
+**When:** 27 - 28 March, 2018
     
 ## [An Event Apart - Seattle](https://aneventapart.com/event/seattle-2018)
 **Where:** Seattle, WA
 
-**When:** 2 April - 4 April, 2018
+**When:** 2 - 4 April, 2018
     
 ## [ForwardJS Ottawa](https://forwardjs.com/ottawa)
 **Where:** Ottawa, ON
 
-**When:** 3 April - 6 April, 2018
+**When:** 3 - 6 April, 2018
     
 ## [RailsConf](https://railsconf.com/)
 **Where:** Pittsburgh, PA
 
-**When:** 17 April - 19 April, 2018
+**When:** 17 - 19 April, 2018
     
 ## [JSHeroes](https://jsheroes.io/)
 **Where:** Cluj-Napoca, Romania
 
-**When:** 18 April - 20 April, 2018
+**When:** 18 - 20 April, 2018
     
 ## [NG Conf](https://www.ng-conf.org/)
 **Where:** Salt Lake City, UT
 
-**When:** 18 April - 20 April, 2018
+**When:** 18 - 20 April, 2018
     
 ## [CodeStock](http://www.codestock.org/)
 **Where:** Knoxville, TN
 
-**When:** 20 April - 21 April, 2018
+**When:** 20 - 21 April, 2018
     
 ## [React Finland](https://react-finland.fi)
 **Where:** Helsinki, Finland
 
-**When:** 24 April - 26 April, 2018
+**When:** 24 - 26 April, 2018
     
 ## [ScaleConf Colombia](http://www.scaleconfco.com)
 **Where:** Medellin, Colombia
 
-**When:** 27 April - 28 April, 2018
+**When:** 27 - 28 April, 2018
     
 ## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
 **Where:** Amsterdam, NE
 
-**When:** 8 May - 9 May, 2018
+**When:** 8 - 9 May, 2018
     
 ## [Pycon](https://us.pycon.org/2018/)
 **Where:** Cleveland, OH
 
-**When:** 9 May - 17 May, 2018
+**When:** 9 - 17 May, 2018
     
 ## [Awwwards SF](https://conference.awwwards.com/san-francisco)
 **Where:** San Francisco, CA
 
-**When:** 10 May - 11 May, 2018
+**When:** 10 - 11 May, 2018
     
 ## [RevolutionConf](https://revolutionconf.com/)
 **Where:** Virginia Beach, VA
 
-**When:** 17 May - 18 May, 2018
+**When:** 17 - 18 May, 2018
     
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
-**When:** 24 May - 25 May, 2018
+**When:** 24 - 25 May, 2018
     
 ## [OFFF Barcelona](http://offf.barcelona/)
 **Where:** Barcelona, Spain
 
-**When:** 24 May - 26 May, 2018
+**When:** 24 - 26 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -247,27 +247,27 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [ConvergeSE](http://convergese.com/)
 **Where:** Columbia, SC
 
-**When:** 13 June - 15 June, 2018
+**When:** 13 - 15 June, 2018
     
 ## [WordCamp Europe 2018](https://2018.europe.wordcamp.org/)
 **Where:** Belgrade, Serbia
 
-**When:** 14 June - 16 June, 2018
+**When:** 14 - 16 June, 2018
     
 ## [An Event Apart - Boston](https://aneventapart.com/event/boston-2018)
 **Where:** Boston, MA
 
-**When:** 25 June - 27 June, 2018
+**When:** 25 - 27 June, 2018
     
 ## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
 **Where:** London, UK
 
-**When:** 11 July - 13 July, 2018
+**When:** 11 - 13 July, 2018
     
 ## [AngularCamp](https://angularcamp.org)
 **Where:** Barcelona, Spain
 
-**When:** 18 July - 20 July, 2018
+**When:** 18 - 20 July, 2018
     
 ## [An Event Apart - Washington DC](https://aneventapart.com/event/washington-dc-2018)
 **Where:** Washington, DC
@@ -282,12 +282,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [React Rally](http://www.reactrally.com/)
 **Where:** Salt Lake City, UT
 
-**When:** 24 August - 25 August, 2018
+**When:** 24 - 25 August, 2018
     
 ## [An Event Apart - Chicago](https://aneventapart.com/event/chicago-2018)
 **Where:** Chicago, IL
 
-**When:** 27 August - 29 August, 2018
+**When:** 27 - 29 August, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
@@ -302,22 +302,22 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [An Event Apart - Orlando](https://aneventapart.com/event/orlando-2018)
 **Where:** Orlando, FL
 
-**When:** 8 October - 10 October, 2018
+**When:** 8 - 10 October, 2018
     
 ## [RubyConf](http://rubyconf.org/)
 **Where:** Los Angeles, CA
 
-**When:** 13 November - 15 November, 2018
+**When:** 13 - 15 November, 2018
     
 ## [JS Kongress Munich 2018 - The Future of JavaScript](https://2018.js-kongress.com/)
 **Where:** Munich, Germany
 
-**When:** 26 November - 27 November, 2018
+**When:** 26 - 27 November, 2018
     
 ## [An Event Apart - San Francisco](https://aneventapart.com/event/san-francisco-2018)
 **Where:** San Francisco, CA
 
-**When:** 10 December - 12 December, 2018
+**When:** 10 - 12 December, 2018
     
 ## Contributing
 1. Fork it
