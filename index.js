@@ -39,20 +39,37 @@ const monthNames = [
 // human readable date function
 let humanDate = ( from, to ) => {
   // to mm-dd
-  let dayMonthTo = '';
+  let dayMonthTo = '', dayTo, toMonthName;
   if( to ) {
     let toArr = to.split('-');
     let eventTo = new Date( year, ( toArr[0] - 1 ), toArr[1] );
     let toMonthIndex = eventTo.getMonth();
-    dayMonthTo = ` - ${eventTo.getDate()} ${monthNames[toMonthIndex]}`;
+    dayTo = eventTo.getDate();
+    toMonthName = monthNames[toMonthIndex];
+    dayMonthTo = ` - ${dayTo} ${toMonthName}`;
   }
 
   // from mm-dd
   let fromArr = from.split('-');
   let eventFrom = new Date( year, ( fromArr[0] - 1 ), fromArr[1] );
+  let fromDay = eventFrom.getDate();
   let fromMonthIndex = eventFrom.getMonth();
+  let fromMonthName = monthNames[fromMonthIndex];
 
-  return `${eventFrom.getDate()} ${monthNames[fromMonthIndex]}${dayMonthTo}, ${year}`;
+  // default return
+  const defaultReturn = `${fromDay} ${fromMonthName}${dayMonthTo}, ${year}`;
+
+  // if same month, use single month name
+  if( to ) {
+    if( fromMonthName === toMonthName ) {
+      return `${fromDay} - ${dayTo} ${fromMonthName}, ${year}`;
+    } else {
+      return defaultReturn;
+    }
+  } else {
+    return defaultReturn;
+  }
+
 }
 
 // sort object by dateFrom
