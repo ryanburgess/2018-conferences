@@ -18,10 +18,15 @@ const contribute =  `
 7. Create new Pull Request
 `;
 
-// create heading for conference list
-content += `
-# Conference List
-`;
+// messages
+const messages = {
+  'success': {
+    'updated': 'Updated conference list'
+  },
+  'fail': {
+    'char': 'Must contain 5 characters. Format: mm-dd',
+  }
+}
 
 // month names for date function
 const monthNames = [
@@ -56,15 +61,18 @@ obj.sort(function(a, b) {
   let bFromArr = b.dateFrom.split('-');
   a = aFromArr[0] + aFromArr[1];
   b = bFromArr[0] + bFromArr[1];
-  // a = new Date( year, ( aFromArr[0] - 1 ), aFromArr[1] );
-  // b = new Date( year, ( bFromArr[0] - 1 ), bFromArr[1] );
-  console.log( a );
-  console.log( b );
   return a - b;
 });
 
+// create heading for conference list
+content += `
+# Conference List
+`;
+
 // create list of conferences
 for (const conference of obj) {
+  if( conference.dateFrom.length !== 5 ) process.exit( console.log(`${conference.title} - dateFrom: ${messages.fail.char}`) );
+  if( conference.dateTo.length !== 0 && conference.dateTo.length !== 5 ) process.exit( console.log(`${conference.title} - dateTo: ${messages.fail.char}`) );
   let humanReadableDate = humanDate( `${conference.dateFrom}`, `${conference.dateTo}` );
   // create content for readme
   content += (    `
@@ -82,5 +90,5 @@ content += contribute;
 // create README with the list of conferences
 fs.writeFile('./README.md', content, function (err) {
   if (err) throw err;
-  console.log('Updated conference list');
+  console.log( messages.success.updated );
 });
