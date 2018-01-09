@@ -23,20 +23,55 @@ content += `
 # Conference List
 `;
 
-// format date
-let formatDateYYYYMMDD = (_dateString) => {
-  let _d = new Date(_dateString);
-  return new Date(_d - _d.getTimezoneOffset() * 60 * 1000).toJSON().split(/T/)[0].replace(/-/g, '');
-};
+// month names for date function
+const monthNames = [
+  "January", "February", "March",
+  "April", "May", "June", "July",
+  "August", "September", "October",
+  "November", "December"
+];
+
+// human readable date function
+let humanDate = ( from, to ) => {
+  // to mm-dd
+  let dayMonthTo = '';
+  if( to ) {
+    let toArr = to.split('-');
+    let eventTo = new Date( year, ( toArr[0] - 1 ), toArr[1] );
+    let toMonthIndex = eventTo.getMonth();
+    dayMonthTo = ` - ${eventTo.getDate()} ${monthNames[toMonthIndex]}`;
+  }
+
+  // from mm-dd
+  let fromArr = from.split('-');
+  let eventFrom = new Date( year, ( fromArr[0] - 1 ), fromArr[1] );
+  let fromMonthIndex = eventFrom.getMonth();
+
+  return `${eventFrom.getDate()} ${monthNames[fromMonthIndex]}${dayMonthTo}, ${year}`;
+}
+
+// sort object by dateFrom
+obj.sort(function(a, b) {
+  let aFromArr = a.dateFrom.split('-');
+  let bFromArr = b.dateFrom.split('-');
+  a = aFromArr[0] + aFromArr[1];
+  b = bFromArr[0] + bFromArr[1];
+  // a = new Date( year, ( aFromArr[0] - 1 ), aFromArr[1] );
+  // b = new Date( year, ( bFromArr[0] - 1 ), bFromArr[1] );
+  console.log( a );
+  console.log( b );
+  return a - b;
+});
 
 // create list of conferences
 for (const conference of obj) {
+  let humanReadableDate = humanDate( `${conference.dateFrom}`, `${conference.dateTo}` );
   // create content for readme
   content += (    `
 ## [${conference.title}](${conference.url})
 **Where:** ${conference.where}
 
-**When:** ${conference.when}
+**When:** ${humanReadableDate}
     `
   );
 }
