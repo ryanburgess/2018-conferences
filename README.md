@@ -89,6 +89,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** March 1-2, 2018
     
+## [Concat](https://2018.conc.at/)
+**Where:** Salzburg, Austria
+
+**When:** March 3, 2018
+    
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
