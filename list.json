@@ -172,7 +172,8 @@
     "title": "Concat",
     "url": "https://2018.conc.at/",
     "where": "Salzburg, Austria",
-    "when": "March 3, 2018",
+    "dateFrom": "03-03",
+    "dateTo": "",
     "month": "January",
     "submissionDeadline": "",
     "country": "Austria"

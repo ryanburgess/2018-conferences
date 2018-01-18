@@ -82,19 +82,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 ## [JSConf Iceland](https://2018.jsconf.is/)
 **Where:** Reykjavik, Iceland
 
-**When:** March 1-2, 2018
+**When:** 1 - 2 March, 2018
     
 ## [Concat](https://2018.conc.at/)
 **Where:** Salzburg, Austria
 
-**When:** March 3, 2018
-    
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
-
-**When:** March 1-2, 2018
-
-**When:** 1 - 2 March, 2018
+**When:** 3 March, 2018
     
 ## [Git Merge](https://git-merge.com/)
 **Where:** Barcelona, Spain
