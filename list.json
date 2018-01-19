@@ -19,6 +19,16 @@
     "country": "Germany"
   },
   {
+    "title": "Reason",
+    "url": "https://www.reason-conf.com/",
+    "where": "Vienna, Austria",
+    "dateFrom": "05-11",
+    "dateTo": "05-13",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "Austria"
+  },
+  {
     "title": "Agent",
     "url": "https://www.agent.sh/",
     "where": "Dornbirn, Austria",
