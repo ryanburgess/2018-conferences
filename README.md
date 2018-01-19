@@ -9,15 +9,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 19 January, 2018
     
-## [Agent](https://www.agent.sh/)
-**Where:** Dornbirn, Austria
-
-**When:** 25 - 26 January, 2018
-    
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
 
 **When:** 25 - 27 January, 2018
+    
+## [Agent](https://www.agent.sh/)
+**Where:** Dornbirn, Austria
+
+**When:** 25 - 26 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -29,15 +29,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 January - 2 February, 2018
     
-## [Rubyfuza](http://www.rubyfuza.org/)
-**Where:** Cape Town, South Africa
-
-**When:** 1 - 3 February, 2018
-    
 ## [ng-europe](https://ngeurope.org/)
 **Where:** Paris, France
 
 **When:** 1 - 2 February, 2018
+    
+## [Rubyfuza](http://www.rubyfuza.org/)
+**Where:** Cape Town, South Africa
+
+**When:** 1 - 3 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
@@ -53,6 +53,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Francisco, CA
 
 **When:** 11 - 16 February, 2018
+    
+## [Frontend Developer Love](http://www.frontenddeveloperlove.com/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 15 February, 2018
+    
+## [VueJS Amsterdam](http://www.frontenddeveloperlove.com/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 16 February, 2018
     
 ## [DevFest KC](https://devfestkc.com/)
 **Where:** Kansas City, MO
@@ -74,13 +84,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 - 2 March, 2018
     
-## [ElixirDaze](http://www.elixirdaze.com/)
-**Where:** Denver, CO
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
 
 **When:** 1 - 2 March, 2018
     
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
+## [ElixirDaze](http://www.elixirdaze.com/)
+**Where:** Denver, CO
 
 **When:** 1 - 2 March, 2018
     
@@ -134,13 +144,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 21 - 23 March, 2018
     
-## [RenderConf](https://2018.render-conf.com/)
-**Where:** Oxford, UK
+## [Decompress](https://2018.decompress.com.au/)
+**Where:** Melbourne, AU
 
 **When:** 23 March, 2018
     
-## [Decompress](https://2018.decompress.com.au/)
-**Where:** Melbourne, AU
+## [RenderConf](https://2018.render-conf.com/)
+**Where:** Oxford, UK
 
 **When:** 23 March, 2018
     
