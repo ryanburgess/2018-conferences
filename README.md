@@ -79,6 +79,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
+
+**When:** 1 - 2 March, 2018
+    
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
@@ -99,15 +104,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 3 March, 2018
     
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
-
-**When:** 7 - 8 March, 2018
-    
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
 
 **When:** 7 - 9 March, 2018
+    
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
+
+**When:** 7 - 8 March, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
@@ -134,18 +139,22 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 20 March, 2018
     
-## [JSConf AU](https://2018.jsconfau.com/)
-**Where:** Melbourne, AU
-
-**When:** 21 - 22 March, 2018
-    
 ## [JazzCon.Tech](http://jazzcon.tech/)
 **Where:** New Orleans, LA
 
 **When:** 21 - 23 March, 2018
     
+
 ## [Decompress](https://2018.decompress.com.au/)
+
+## [JSConf AU](https://2018.jsconfau.com/)
+
 **Where:** Melbourne, AU
+
+**When:** 21 - 22 March, 2018
+    
+## [RenderConf](https://2018.render-conf.com/)
+**Where:** Oxford, UK
 
 **When:** 23 March, 2018
     
@@ -218,6 +227,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Francisco, CA
 
 **When:** 10 - 11 May, 2018
+    
+## [Reason](https://www.reason-conf.com/)
+**Where:** Vienna, Austria
+
+**When:** 11 - 13 May, 2018
     
 ## [RevolutionConf](https://revolutionconf.com/)
 **Where:** Virginia Beach, VA
