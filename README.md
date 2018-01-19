@@ -54,6 +54,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 11 - 16 February, 2018
     
+## [Frontend Developer Love](http://www.frontenddeveloperlove.com/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 15 February, 2018
+    
+## [VueJS Amsterdam](http://www.frontenddeveloperlove.com/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 16 February, 2018
+    
 ## [DevFest KC](https://devfestkc.com/)
 **Where:** Kansas City, MO
 
@@ -76,6 +86,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
     
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
+
+**When:** 1 - 2 March, 2018
+    
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
 
 **When:** 1 - 2 March, 2018
     
@@ -129,13 +144,17 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 21 - 23 March, 2018
     
+
+## [Decompress](https://2018.decompress.com.au/)
+
 ## [JSConf AU](https://2018.jsconfau.com/)
+
 **Where:** Melbourne, AU
 
 **When:** 21 - 22 March, 2018
     
-## [Decompress](https://2018.decompress.com.au/)
-**Where:** Melbourne, AU
+## [RenderConf](https://2018.render-conf.com/)
+**Where:** Oxford, UK
 
 **When:** 23 March, 2018
     

@@ -49,6 +49,26 @@
     "country": "France"
   },
   {
+    "title": "Frontend Developer Love",
+    "url": "http://www.frontenddeveloperlove.com/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "02-15",
+    "dateTo": "",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "Netherlands"
+  },
+  {
+    "title": "VueJS Amsterdam",
+    "url": "http://www.frontenddeveloperlove.com/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "02-16",
+    "dateTo": "",
+    "month": "February",
+    "submissionDeadline": "",
+    "country": "Netherlands"
+  },
+  {
     "title": "dotAi / dotScale",
     "url": "https://www.dotai.io/",
     "where": "Paris, France",
