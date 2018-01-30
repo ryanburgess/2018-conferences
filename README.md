@@ -79,11 +79,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
-
-**When:** 1 - 2 March, 2018
-    
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
@@ -91,6 +86,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
     
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
+
+**When:** 1 - 2 March, 2018
+    
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
 
 **When:** 1 - 2 March, 2018
     
@@ -144,13 +144,17 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 21 - 23 March, 2018
     
+
 ## [Decompress](https://2018.decompress.com.au/)
+
+## [JSConf AU](https://2018.jsconfau.com/)
+
 **Where:** Melbourne, AU
 
 **When:** 23 March, 2018
     
-## [RenderConf](https://2018.render-conf.com/)
-**Where:** Oxford, UK
+## [Decompress](https://2018.decompress.com.au/)
+**Where:** Melbourne, AU
 
 **When:** 23 March, 2018
     
@@ -333,6 +337,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Los Angeles, CA
 
 **When:** 13 - 15 November, 2018
+    
+## [Material](https://material.is/2018/)
+**Where:** Reykjavík, Iceland
+
+**When:** 16 November, 2018
     
 ## [JS Kongress Munich 2018 - The Future of JavaScript](https://2018.js-kongress.com/)
 **Where:** Munich, Germany
