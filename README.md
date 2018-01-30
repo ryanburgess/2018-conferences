@@ -29,15 +29,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 January - 2 February, 2018
     
-## [ng-europe](https://ngeurope.org/)
-**Where:** Paris, France
-
-**When:** 1 - 2 February, 2018
-    
 ## [Rubyfuza](http://www.rubyfuza.org/)
 **Where:** Cape Town, South Africa
 
 **When:** 1 - 3 February, 2018
+    
+## [ng-europe](https://ngeurope.org/)
+**Where:** Paris, France
+
+**When:** 1 - 2 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
@@ -134,6 +134,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 20 March, 2018
     
+## [JSConf AU](https://2018.jsconfau.com/)
+**Where:** Melbourne, AU
+
+**When:** 21 - 22 March, 2018
+    
 ## [JazzCon.Tech](http://jazzcon.tech/)
 **Where:** New Orleans, LA
 
@@ -141,11 +146,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
     
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
-
-**When:** 21 - 22 March, 2018
-    
-## [RenderConf](https://2018.render-conf.com/)
-**Where:** Oxford, UK
 
 **When:** 23 March, 2018
     
@@ -269,6 +269,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 9 June, 2018
     
+## [Fluent](https://conferences.oreilly.com/fluent/fl-ca)
+**Where:** San Jose, CA
+
+**When:** 11 - 14 June, 2018
+    
 ## [ConvergeSE](http://convergese.com/)
 **Where:** Columbia, SC
 
@@ -333,6 +338,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Los Angeles, CA
 
 **When:** 13 - 15 November, 2018
+    
+## [Material](https://material.is/2018/)
+**Where:** Reykjavík, Iceland
+
+**When:** 16 November, 2018
     
 ## [JS Kongress Munich 2018 - The Future of JavaScript](https://2018.js-kongress.com/)
 **Where:** Munich, Germany
