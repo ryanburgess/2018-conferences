@@ -289,6 +289,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 25 - 27 June, 2018
     
+## [Ampersand](https://2018.ampersandconf.com/)
+**Where:** Brighton, UK
+
+**When:** 29 June, 2018
+    
 ## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
 **Where:** London, UK
 
