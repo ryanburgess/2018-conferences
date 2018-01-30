@@ -408,7 +408,7 @@
     "submissionDeadline": "",
     "country": "USA"
   },
-   {
+  {
     "title": "ScaleConf Colombia",
     "url": "http://www.scaleconfco.com",
     "where": "Medellin, Colombia",
@@ -514,6 +514,16 @@
     "where": "Columbia, SC",
     "dateFrom": "06-13",
     "dateTo": "06-15",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Fluent",
+    "url": "https://conferences.oreilly.com/fluent/fl-ca",
+    "where": "San Jose, CA",
+    "dateFrom": "06-11",
+    "dateTo": "06-14",
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
