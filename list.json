@@ -19,6 +19,16 @@
     "country": "Germany"
   },
   {
+    "title": "PHP Day",
+    "url": "https://2018.phpday.it/",
+    "where": "Verona, Italy",
+    "dateFrom": "05-11",
+    "dateTo": "05-12",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "Italy"
+  },
+  {
     "title": "Ampersand",
     "url": "https://2018.ampersandconf.com/",
     "where": "Brighton, UK",
