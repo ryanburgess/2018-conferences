@@ -1,4 +1,5 @@
-[{
+[
+  {
     "title": "Script",
     "url": "https://scriptconf.org/",
     "where": "Linz, Austria",
@@ -605,6 +606,16 @@
     "dateFrom": "08-27",
     "dateTo": "08-29",
     "month": "August",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "Framework Summit",
+    "url": "https://www.frameworksummit.com/",
+    "where": "Park City, Utah",
+    "dateFrom": "10-02",
+    "dateTo": "10-03",
+    "month": "October",
     "submissionDeadline": "",
     "country": "USA"
   },
