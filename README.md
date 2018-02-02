@@ -339,6 +339,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 October, 2018
     
+## [Framework Summit](https://www.frameworksummit.com/)
+**Where:** Park City, Utah
+
+**When:** 2 - 3 October, 2018
+    
 ## [An Event Apart - Orlando](https://aneventapart.com/event/orlando-2018)
 **Where:** Orlando, FL
 
