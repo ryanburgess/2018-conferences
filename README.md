@@ -98,6 +98,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
+  
+## [MainXChange](https://mainxchange.de)
+**Where:** Wuerzburg, Germany
+
+**When:** 7 March, 2018
     
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
