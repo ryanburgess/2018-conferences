@@ -9,15 +9,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 19 January, 2018
     
-## [JSConf Asia](https://2018.jsconf.asia/)
-**Where:** Singapore
-
-**When:** 25 - 27 January, 2018
-    
 ## [Agent](https://www.agent.sh/)
 **Where:** Dornbirn, Austria
 
 **When:** 25 - 26 January, 2018
+    
+## [JSConf Asia](https://2018.jsconf.asia/)
+**Where:** Singapore
+
+**When:** 25 - 27 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -29,15 +29,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 January - 2 February, 2018
     
-## [ng-europe](https://ngeurope.org/)
-**Where:** Paris, France
-
-**When:** 1 - 2 February, 2018
-    
 ## [Rubyfuza](http://www.rubyfuza.org/)
 **Where:** Cape Town, South Africa
 
 **When:** 1 - 3 February, 2018
+    
+## [ng-europe](https://ngeurope.org/)
+**Where:** Paris, France
+
+**When:** 1 - 2 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
@@ -84,13 +84,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 - 2 March, 2018
     
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
 
 **When:** 1 - 2 March, 2018
     
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
     
@@ -98,7 +98,12 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
-  
+    
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
+
+**When:** 7 - 8 March, 2018
+    
 ## [MainXChange](https://mainxchange.de)
 **Where:** Wuerzburg, Germany
 
@@ -108,11 +113,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Montreal, QC
 
 **When:** 7 - 9 March, 2018
-    
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
-
-**When:** 7 - 8 March, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
@@ -184,13 +184,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 19 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     

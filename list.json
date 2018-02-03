@@ -725,5 +725,15 @@
     "month": "August",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "MainXChange",
+    "url": "https://mainxchange.de",
+    "where": "Wuerzburg, Germany",
+    "dateFrom": "03-07",
+    "dateTo": "",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
