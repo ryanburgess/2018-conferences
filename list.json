@@ -735,5 +735,25 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Laracon EU",
+    "url": "https://laracon.eu/2018/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "30-31",
+    "dateTo": "",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "Netherlands"
+  },
+  {
+    "title": "Laracon US",
+    "url": "http://laracon.us/",
+    "where": "Chicago, Illinois",
+    "dateFrom": "25-26",
+    "dateTo": "",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

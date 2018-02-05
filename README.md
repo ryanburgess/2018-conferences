@@ -9,15 +9,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 19 January, 2018
     
-## [Agent](https://www.agent.sh/)
-**Where:** Dornbirn, Austria
-
-**When:** 25 - 26 January, 2018
-    
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
 
 **When:** 25 - 27 January, 2018
+    
+## [Agent](https://www.agent.sh/)
+**Where:** Dornbirn, Austria
+
+**When:** 25 - 26 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -84,13 +84,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 - 2 March, 2018
     
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
     
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
 
 **When:** 1 - 2 March, 2018
     
@@ -99,30 +99,30 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 3 March, 2018
     
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
+## [ConFoo](https://confoo.ca/en/yul2018)
+**Where:** Montreal, QC
 
-**When:** 7 - 8 March, 2018
+**When:** 7 - 9 March, 2018
     
 ## [MainXChange](https://mainxchange.de)
 **Where:** Wuerzburg, Germany
 
 **When:** 7 March, 2018
     
-## [ConFoo](https://confoo.ca/en/yul2018)
-**Where:** Montreal, QC
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
 
-**When:** 7 - 9 March, 2018
-    
-## [ReactFest](https://reactfest.com/)
-**Where:** London, UK
-
-**When:** 9 March, 2018
+**When:** 7 - 8 March, 2018
     
 ## [GopherCon India](http://www.gophercon.in/)
 **Where:** Pune, India
 
 **When:** 9 - 10 March, 2018
+    
+## [ReactFest](https://reactfest.com/)
+**Where:** London, UK
+
+**When:** 9 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
@@ -139,15 +139,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 20 March, 2018
     
-## [JazzCon.Tech](http://jazzcon.tech/)
-**Where:** New Orleans, LA
-
-**When:** 21 - 23 March, 2018
-    
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
 **When:** 21 - 22 March, 2018
+    
+## [JazzCon.Tech](http://jazzcon.tech/)
+**Where:** New Orleans, LA
+
+**When:** 21 - 23 March, 2018
     
 ## [Decompress](https://2018.decompress.com.au/)
 **Where:** Melbourne, AU
@@ -244,15 +244,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 18 May, 2018
     
-## [OFFF Barcelona](http://offf.barcelona/)
-**Where:** Barcelona, Spain
-
-**When:** 24 - 26 May, 2018
-    
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
 **When:** 24 - 25 May, 2018
+    
+## [OFFF Barcelona](http://offf.barcelona/)
+**Where:** Barcelona, Spain
+
+**When:** 24 - 26 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -373,6 +373,16 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Francisco, CA
 
 **When:** 10 - 12 December, 2018
+    
+## [Laracon US](http://laracon.us/)
+**Where:** Chicago, Illinois
+
+**When:** 26 January, 2018
+    
+## [Laracon EU](https://laracon.eu/2018/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 1 July, 2018
     
 ## Contributing
 1. Fork it
