@@ -314,6 +314,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 18 - 20 July, 2018
     
+## [Laracon US](http://laracon.us/)
+**Where:** Chicago, Illinois
+
+**When:** 25 - 26 July, 2018
+    
 ## [An Event Apart - Washington DC](https://aneventapart.com/event/washington-dc-2018)
 **Where:** Washington, DC
 
@@ -333,6 +338,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Chicago, IL
 
 **When:** 27 - 29 August, 2018
+    
+## [Laracon EU](https://laracon.eu/2018/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 30 - 31 August, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
@@ -373,16 +383,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Francisco, CA
 
 **When:** 10 - 12 December, 2018
-    
-## [Laracon US](http://laracon.us/)
-**Where:** Chicago, Illinois
-
-**When:** 26 January, 2018
-    
-## [Laracon EU](https://laracon.eu/2018/)
-**Where:** Amsterdam, Netherlands
-
-**When:** 1 July, 2018
     
 ## Contributing
 1. Fork it
