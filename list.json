@@ -737,6 +737,26 @@
     "country": "USA"
   },
   {
+    "title": "Laracon EU",
+    "url": "https://laracon.eu/2018/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "08-30",
+    "dateTo": "08-31",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "Netherlands"
+  },
+  {
+    "title": "Laracon US",
+    "url": "http://laracon.us/",
+    "where": "Chicago, Illinois",
+    "dateFrom": "07-25",
+    "dateTo": "07-26",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "WebConf Asia",
     "url": "https://webconf.asia/",
     "where": "Hong Kong",

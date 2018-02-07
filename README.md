@@ -84,11 +84,14 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 - 2 March, 2018
     
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
     
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
+
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
 
@@ -244,15 +247,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 18 May, 2018
     
-## [OFFF Barcelona](http://offf.barcelona/)
-**Where:** Barcelona, Spain
-
-**When:** 24 - 26 May, 2018
-    
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
 **When:** 24 - 25 May, 2018
+    
+## [OFFF Barcelona](http://offf.barcelona/)
+**Where:** Barcelona, Spain
+
+**When:** 24 - 26 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -319,6 +322,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 18 - 20 July, 2018
     
+## [Laracon US](http://laracon.us/)
+**Where:** Chicago, Illinois
+
+**When:** 25 - 26 July, 2018
+    
 ## [An Event Apart - Washington DC](https://aneventapart.com/event/washington-dc-2018)
 **Where:** Washington, DC
 
@@ -338,6 +346,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Chicago, IL
 
 **When:** 27 - 29 August, 2018
+    
+## [Laracon EU](https://laracon.eu/2018/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 30 - 31 August, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
