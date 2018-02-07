@@ -755,5 +755,15 @@
     "month": "July",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "WebConf Asia",
+    "url": "https://webconf.asia/",
+    "where": "Hong Kong",
+    "dateFrom": "06-06",
+    "dateTo": "06-09",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Hong Kong"
   }
 ]

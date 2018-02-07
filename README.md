@@ -29,15 +29,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 January - 2 February, 2018
     
-## [Rubyfuza](http://www.rubyfuza.org/)
-**Where:** Cape Town, South Africa
-
-**When:** 1 - 3 February, 2018
-    
 ## [ng-europe](https://ngeurope.org/)
 **Where:** Paris, France
 
 **When:** 1 - 2 February, 2018
+    
+## [Rubyfuza](http://www.rubyfuza.org/)
+**Where:** Cape Town, South Africa
+
+**When:** 1 - 3 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
@@ -79,8 +79,8 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
-## [ElixirDaze](http://www.elixirdaze.com/)
-**Where:** Denver, CO
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
     
@@ -91,6 +91,9 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
     
 ## [JSConf Iceland](https://2018.jsconf.is/)
 **Where:** Reykjavik, Iceland
+
+## [ElixirDaze](http://www.elixirdaze.com/)
+**Where:** Denver, CO
 
 **When:** 1 - 2 March, 2018
     
@@ -273,6 +276,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Berlin, Germany
 
 **When:** 1 June, 2018
+    
+## [WebConf Asia](https://webconf.asia/)
+**Where:** Hong Kong
+
+**When:** 6 - 9 June, 2018
     
 ## [DEVit](http://devitconf.org/)
 **Where:** Thessaloniki, Greece
