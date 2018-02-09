@@ -29,15 +29,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 January - 2 February, 2018
     
-## [ng-europe](https://ngeurope.org/)
-**Where:** Paris, France
-
-**When:** 1 - 2 February, 2018
-    
 ## [Rubyfuza](http://www.rubyfuza.org/)
 **Where:** Cape Town, South Africa
 
 **When:** 1 - 3 February, 2018
+    
+## [ng-europe](https://ngeurope.org/)
+**Where:** Paris, France
+
+**When:** 1 - 2 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
@@ -79,21 +79,18 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
-
-**When:** 1 - 2 March, 2018
-    
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
+## [ElixirDaze](http://www.elixirdaze.com/)
+**Where:** Denver, CO
 
 **When:** 1 - 2 March, 2018
     
 ## [JSConf Iceland](https://2018.jsconf.is/)
 **Where:** Reykjavik, Iceland
 
-## [ElixirDaze](http://www.elixirdaze.com/)
-**Where:** Denver, CO
+**When:** 1 - 2 March, 2018
+    
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
     
@@ -102,30 +99,30 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 3 March, 2018
     
-## [ConFoo](https://confoo.ca/en/yul2018)
-**Where:** Montreal, QC
-
-**When:** 7 - 9 March, 2018
-    
 ## [MainXChange](https://mainxchange.de)
 **Where:** Wuerzburg, Germany
 
 **When:** 7 March, 2018
+    
+## [ConFoo](https://confoo.ca/en/yul2018)
+**Where:** Montreal, QC
+
+**When:** 7 - 9 March, 2018
     
 ## [Git Merge](https://git-merge.com/)
 **Where:** Barcelona, Spain
 
 **When:** 7 - 8 March, 2018
     
-## [GopherCon India](http://www.gophercon.in/)
-**Where:** Pune, India
-
-**When:** 9 - 10 March, 2018
-    
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
 
 **When:** 9 March, 2018
+    
+## [GopherCon India](http://www.gophercon.in/)
+**Where:** Pune, India
+
+**When:** 9 - 10 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
@@ -152,13 +149,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 21 - 23 March, 2018
     
-## [Decompress](https://2018.decompress.com.au/)
-**Where:** Melbourne, AU
+## [RenderConf](https://2018.render-conf.com/)
+**Where:** Oxford, UK
 
 **When:** 23 March, 2018
     
-## [RenderConf](https://2018.render-conf.com/)
-**Where:** Oxford, UK
+## [Decompress](https://2018.decompress.com.au/)
+**Where:** Melbourne, AU
 
 **When:** 23 March, 2018
     
@@ -232,15 +229,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 10 - 11 May, 2018
     
-## [Reason](https://www.reason-conf.com/)
-**Where:** Vienna, Austria
-
-**When:** 11 - 13 May, 2018
-    
 ## [PHP Day](https://2018.phpday.it/)
 **Where:** Verona, Italy
 
 **When:** 11 - 12 May, 2018
+    
+## [Reason](https://www.reason-conf.com/)
+**Where:** Vienna, Austria
+
+**When:** 11 - 13 May, 2018
     
 ## [RevolutionConf](https://revolutionconf.com/)
 **Where:** Virginia Beach, VA
@@ -351,6 +348,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Amsterdam, Netherlands
 
 **When:** 30 - 31 August, 2018
+    
+## [CoderCruise 2018](https://www.codercruise.com)
+**Where:** Ft. Lauderdale, FL
+
+**When:** 30 August - 3 September, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
