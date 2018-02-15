@@ -79,11 +79,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
-## [ElixirDaze](http://www.elixirdaze.com/)
-**Where:** Denver, CO
-
-**When:** 1 - 2 March, 2018
-    
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
@@ -94,15 +89,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 - 2 March, 2018
     
+## [ElixirDaze](http://www.elixirdaze.com/)
+**Where:** Denver, CO
+
+**When:** 1 - 2 March, 2018
+    
 ## [Concat](https://2018.conc.at/)
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
-    
-## [ConFoo](https://confoo.ca/en/yul2018)
-**Where:** Montreal, QC
-
-**When:** 7 - 9 March, 2018
     
 ## [MainXChange](https://mainxchange.de)
 **Where:** Wuerzburg, Germany
@@ -114,15 +109,20 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 7 - 8 March, 2018
     
-## [GopherCon India](http://www.gophercon.in/)
-**Where:** Pune, India
+## [ConFoo](https://confoo.ca/en/yul2018)
+**Where:** Montreal, QC
 
-**When:** 9 - 10 March, 2018
+**When:** 7 - 9 March, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
 
 **When:** 9 March, 2018
+    
+## [GopherCon India](http://www.gophercon.in/)
+**Where:** Pune, India
+
+**When:** 9 - 10 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
@@ -139,6 +139,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 20 March, 2018
     
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
+
+**When:** 20 - 22 March, 2018
+    
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
@@ -149,13 +154,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 21 - 23 March, 2018
     
-## [Decompress](https://2018.decompress.com.au/)
-**Where:** Melbourne, AU
+## [RenderConf](https://2018.render-conf.com/)
+**Where:** Oxford, UK
 
 **When:** 23 March, 2018
     
-## [RenderConf](https://2018.render-conf.com/)
-**Where:** Oxford, UK
+## [Decompress](https://2018.decompress.com.au/)
+**Where:** Melbourne, AU
 
 **When:** 23 March, 2018
     
@@ -169,6 +174,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 27 - 28 March, 2018
     
+## [SRECon Americas](https://www.usenix.org/conference/srecon18americas)
+**Where:** Santa Clara, CA
+
+**When:** 29 - 29 March, 2018
+    
 ## [An Event Apart - Seattle](https://aneventapart.com/event/seattle-2018)
 **Where:** Seattle, WA
 
@@ -179,18 +189,23 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 3 - 6 April, 2018
     
+## [Codemotion Rome](https://rome2018.codemotionworld.com/)
+**Where:** Rome, Italy
+
+**When:** 13 - 14 April, 2018
+    
 ## [RailsConf](https://railsconf.com/)
 **Where:** Pittsburgh, PA
 
 **When:** 17 - 19 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
@@ -244,15 +259,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 18 May, 2018
     
-## [Front-Trends](https://2018.front-trends.com/)
-**Where:** Warsaw, Poland
-
-**When:** 24 - 25 May, 2018
-    
 ## [OFFF Barcelona](http://offf.barcelona/)
 **Where:** Barcelona, Spain
 
 **When:** 24 - 26 May, 2018
+    
+## [Front-Trends](https://2018.front-trends.com/)
+**Where:** Warsaw, Poland
+
+**When:** 24 - 25 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -373,16 +388,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Francisco, CA
 
 **When:** 10 - 12 December, 2018
-    
-## [Reactathon](https://www.reactathon.com/)
-**Where:** San Francisco, CA
-
-**When:** 22 August, 2018
-    
-## [SRECon Americas](https://www.usenix.org/conference/srecon18americas)
-**Where:** Santa Clara, CA
-
-**When:** 29 March, 2018
     
 ## Contributing
 1. Fork it

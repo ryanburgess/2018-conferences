@@ -470,6 +470,16 @@
     "country": "Netherlands"
   },
   {
+    "title": "Codemotion Rome",
+    "url": "https://rome2018.codemotionworld.com/",
+    "where": "Rome, Italy",
+    "dateFrom": "04-13",
+    "dateTo": "04-14",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "Rome"
+  },
+  {
     "title": "Pycon",
     "url": "https://us.pycon.org/2018/",
     "where": "Cleveland, OH",
@@ -740,8 +750,8 @@
     "title": "SRECon Americas",
     "url": "https://www.usenix.org/conference/srecon18americas",
     "where": "Santa Clara, CA",
-    "dateFrom": "27-29",
-    "dateTo": "",
+    "dateFrom": "03-29",
+    "dateTo": "03-29",
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
@@ -750,8 +760,8 @@
     "title": "Reactathon",
     "url": "https://www.reactathon.com/",
     "where": "San Francisco, CA",
-    "dateFrom": "20-22",
-    "dateTo": "",
+    "dateFrom": "03-20",
+    "dateTo": "03-22",
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
