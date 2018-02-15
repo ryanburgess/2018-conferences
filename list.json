@@ -735,5 +735,15 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "SRECon Americas",
+    "url": "https://www.usenix.org/conference/srecon18americas",
+    "where": "Santa Clara, CA",
+    "dateFrom": "27-29",
+    "dateTo": "",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
