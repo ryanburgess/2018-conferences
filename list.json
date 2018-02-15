@@ -620,6 +620,16 @@
     "country": "USA"
   },
   {
+    "title": "CoderCruise 2018",
+    "url": "https://www.codercruise.com",
+    "where": "Ft. Lauderdale, FL",
+    "dateFrom": "08-30",
+    "dateTo": "09-03",
+    "month": "August",
+    "submissionDeadline": "February 28, 2018",
+    "country": "USA"
+  },
+  {
     "title": "Framework Summit",
     "url": "https://www.frameworksummit.com/",
     "where": "Park City, Utah",
@@ -765,5 +775,35 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Laracon EU",
+    "url": "https://laracon.eu/2018/",
+    "where": "Amsterdam, Netherlands",
+    "dateFrom": "08-30",
+    "dateTo": "08-31",
+    "month": "August",
+    "submissionDeadline": "",
+    "country": "Netherlands"
+  },
+  {
+    "title": "Laracon US",
+    "url": "http://laracon.us/",
+    "where": "Chicago, Illinois",
+    "dateFrom": "07-25",
+    "dateTo": "07-26",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
+    "title": "WebConf Asia",
+    "url": "https://webconf.asia/",
+    "where": "Hong Kong",
+    "dateFrom": "06-06",
+    "dateTo": "06-09",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "Hong Kong"
   }
 ]
