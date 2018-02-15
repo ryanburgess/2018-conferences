@@ -745,5 +745,15 @@
     "month": "March",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Reactathon",
+    "url": "https://www.reactathon.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "20-22",
+    "dateTo": "",
+    "month": "March",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

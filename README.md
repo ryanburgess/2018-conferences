@@ -29,15 +29,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 January - 2 February, 2018
     
-## [ng-europe](https://ngeurope.org/)
-**Where:** Paris, France
-
-**When:** 1 - 2 February, 2018
-    
 ## [Rubyfuza](http://www.rubyfuza.org/)
 **Where:** Cape Town, South Africa
 
 **When:** 1 - 3 February, 2018
+    
+## [ng-europe](https://ngeurope.org/)
+**Where:** Paris, France
+
+**When:** 1 - 2 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
@@ -79,6 +79,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
+## [ElixirDaze](http://www.elixirdaze.com/)
+**Where:** Denver, CO
+
+**When:** 1 - 2 March, 2018
+    
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
@@ -86,11 +91,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
     
 ## [JSConf Iceland](https://2018.jsconf.is/)
 **Where:** Reykjavik, Iceland
-
-**When:** 1 - 2 March, 2018
-    
-## [ElixirDaze](http://www.elixirdaze.com/)
-**Where:** Denver, CO
 
 **When:** 1 - 2 March, 2018
     
@@ -184,13 +184,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 19 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     
@@ -373,6 +373,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** San Francisco, CA
 
 **When:** 10 - 12 December, 2018
+    
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
+
+**When:** 22 August, 2018
     
 ## [SRECon Americas](https://www.usenix.org/conference/srecon18americas)
 **Where:** Santa Clara, CA
