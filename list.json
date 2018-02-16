@@ -815,5 +815,15 @@
     "month": "February",
     "submissionDeadline": "",
     "country": "Amsterdam"
+  },
+  {
+    "title": "Mid-Atlantic Developer Conference",
+    "url": "https://www.middevcon.com/",
+    "where": "Baltimore, MD",
+    "dateFrom": "07-13",
+    "dateTo": "07-14",
+    "month": "July",
+    "submissionDeadline": "March 31, 2018",
+    "country": "USA"
   }
 ]
