@@ -815,5 +815,15 @@
     "month": "February",
     "submissionDeadline": "",
     "country": "Amsterdam"
+  },
+  {
+    "title": "Uphill Conf",
+    "url": "https://uphillconf.com/",
+    "where": "Bern, Switzerland",
+    "dateFrom": "04-26",
+    "dateTo": "04-27",
+    "month": "April",
+    "submissionDeadline": "",
+    "country": "Switzerland"
   }
 ]

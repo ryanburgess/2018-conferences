@@ -9,15 +9,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 19 January, 2018
     
-## [Agent](https://www.agent.sh/)
-**Where:** Dornbirn, Austria
-
-**When:** 25 - 26 January, 2018
-    
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
 
 **When:** 25 - 27 January, 2018
+    
+## [Agent](https://www.agent.sh/)
+**Where:** Dornbirn, Austria
+
+**When:** 25 - 26 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -104,11 +104,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 3 March, 2018
     
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
-
-**When:** 7 - 8 March, 2018
-    
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
 
@@ -118,6 +113,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Wuerzburg, Germany
 
 **When:** 7 March, 2018
+    
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
+
+**When:** 7 - 8 March, 2018
     
 ## [GopherCon India](http://www.gophercon.in/)
 **Where:** Pune, India
@@ -139,33 +139,33 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 16 March, 2018
     
-## [Reactathon](https://www.reactathon.com/)
-**Where:** San Francisco, CA
-
-**When:** 20 - 22 March, 2018
-    
 ## [CSSConf AU](https://2018.cssconf.com.au/)
 **Where:** Melbourne, AU
 
 **When:** 20 March, 2018
     
-## [JazzCon.Tech](http://jazzcon.tech/)
-**Where:** New Orleans, LA
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
 
-**When:** 21 - 23 March, 2018
+**When:** 20 - 22 March, 2018
     
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
 **When:** 21 - 22 March, 2018
     
-## [Decompress](https://2018.decompress.com.au/)
-**Where:** Melbourne, AU
+## [JazzCon.Tech](http://jazzcon.tech/)
+**Where:** New Orleans, LA
 
-**When:** 23 March, 2018
+**When:** 21 - 23 March, 2018
     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
+
+**When:** 23 March, 2018
+    
+## [Decompress](https://2018.decompress.com.au/)
+**Where:** Melbourne, AU
 
 **When:** 23 March, 2018
     
@@ -229,6 +229,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 25 - 26 April, 2018
     
+## [Uphill Conf](https://uphillconf.com/)
+**Where:** Bern, Switzerland
+
+**When:** 26 - 27 April, 2018
+    
 ## [ScaleConf Colombia](http://www.scaleconfco.com)
 **Where:** Medellin, Colombia
 
@@ -249,30 +254,30 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 10 - 11 May, 2018
     
-## [Reason](https://www.reason-conf.com/)
-**Where:** Vienna, Austria
-
-**When:** 11 - 13 May, 2018
-    
 ## [PHP Day](https://2018.phpday.it/)
 **Where:** Verona, Italy
 
 **When:** 11 - 12 May, 2018
+    
+## [Reason](https://www.reason-conf.com/)
+**Where:** Vienna, Austria
+
+**When:** 11 - 13 May, 2018
     
 ## [RevolutionConf](https://revolutionconf.com/)
 **Where:** Virginia Beach, VA
 
 **When:** 17 - 18 May, 2018
     
-## [OFFF Barcelona](http://offf.barcelona/)
-**Where:** Barcelona, Spain
-
-**When:** 24 - 26 May, 2018
-    
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
 **When:** 24 - 25 May, 2018
+    
+## [OFFF Barcelona](http://offf.barcelona/)
+**Where:** Barcelona, Spain
+
+**When:** 24 - 26 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -364,15 +369,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 27 - 29 August, 2018
     
-## [CoderCruise 2018](https://www.codercruise.com)
-**Where:** Ft. Lauderdale, FL
-
-**When:** 30 August - 3 September, 2018
-    
 ## [Laracon EU](https://laracon.eu/2018/)
 **Where:** Amsterdam, Netherlands
 
 **When:** 30 - 31 August, 2018
+    
+## [CoderCruise 2018](https://www.codercruise.com)
+**Where:** Ft. Lauderdale, FL
+
+**When:** 30 August - 3 September, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
