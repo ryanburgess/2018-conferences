@@ -359,15 +359,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 July - 1 August, 2018
     
+## [React Rally](http://www.reactrally.com/)
+**Where:** Salt Lake City, UT
+
+**When:** 16 - 17 August, 2018
+    
 ## [Scenic City Summit](https://www.sceniccitysummit.com/)
 **Where:** Chattanooga, TN
 
 **When:** 17 August, 2018
-    
-## [React Rally](http://www.reactrally.com/)
-**Where:** Salt Lake City, UT
-
-**When:** 24 - 25 August, 2018
     
 ## [An Event Apart - Chicago](https://aneventapart.com/event/chicago-2018)
 **Where:** Chicago, IL

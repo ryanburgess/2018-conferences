@@ -1,5 +1,4 @@
-[
-  {
+[{
     "title": "Script",
     "url": "https://scriptconf.org/",
     "where": "Linz, Austria",
@@ -603,8 +602,8 @@
     "title": "React Rally",
     "url": "http://www.reactrally.com/",
     "where": "Salt Lake City, UT",
-    "dateFrom": "08-24",
-    "dateTo": "08-25",
+    "dateFrom": "08-16",
+    "dateTo": "08-17",
     "month": "August",
     "submissionDeadline": "",
     "country": "USA"
