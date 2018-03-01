@@ -238,6 +238,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Medellin, Colombia
 
 **When:** 27 - 28 April, 2018
+
+## [Beyond Tellerrand](https://beyondtellerrand.com)
+**Where:** Düsseldorf, Germany
+
+**When:** 7 - 9 May, 2018
     
 ## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
 **Where:** Amsterdam, Netherlands
@@ -403,6 +408,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Orlando, FL
 
 **When:** 8 - 10 October, 2018
+
+## [Beyond Tellerrand](https://beyondtellerrand.com)
+**Where:** Berlin, Germany
+
+**When:** 5 - 7 November, 2018
     
 ## [RubyConf](http://rubyconf.org/)
 **Where:** Los Angeles, CA
