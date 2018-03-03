@@ -9,6 +9,16 @@
     "country": "Austria"
   },
   {
+    "title": "DevTernity",
+    "url": "https://devternity.com",
+    "where": "Riga, Latvia",
+    "dateFrom": "30-11",
+    "dateTo": "01-12",
+    "month": "November",
+    "submissionDeadline": "",
+    "country": "Latvia"
+  },
+  {
     "title": "CSSConf EU",
     "url": "https://2018.cssconf.eu/",
     "where": "Berlin, Germany",
