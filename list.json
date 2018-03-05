@@ -844,5 +844,25 @@
     "month": "July",
     "submissionDeadline": "March 31, 2018",
     "country": "USA"
+  },
+  {
+    "title": "Beyond Tellerrand",
+    "url": "https://beyondtellerrand.com",
+    "where": "Düsseldorf, Germany",
+    "dateFrom": "05-07",
+    "dateTo": "05-09",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "Germany"
+  },
+  {
+    "title": "Beyond Tellerrand",
+    "url": "https://beyondtellerrand.com",
+    "where": "Berlin, Germany",
+    "dateFrom": "11-05",
+    "dateTo": "11-07",
+    "month": "November",
+    "submissionDeadline": "",
+    "country": "Germany"
   }
 ]

@@ -84,11 +84,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
-
-**When:** 1 - 2 March, 2018
-    
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
 
@@ -99,10 +94,20 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 - 2 March, 2018
     
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
+
+**When:** 1 - 2 March, 2018
+    
 ## [Concat](https://2018.conc.at/)
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
+    
+## [MainXChange](https://mainxchange.de)
+**Where:** Wuerzburg, Germany
+
+**When:** 7 March, 2018
     
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
@@ -114,20 +119,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 7 - 8 March, 2018
     
-## [MainXChange](https://mainxchange.de)
-**Where:** Wuerzburg, Germany
+## [ReactFest](https://reactfest.com/)
+**Where:** London, UK
 
-**When:** 7 March, 2018
+**When:** 9 March, 2018
     
 ## [GopherCon India](http://www.gophercon.in/)
 **Where:** Pune, India
 
 **When:** 9 - 10 March, 2018
-    
-## [ReactFest](https://reactfest.com/)
-**Where:** London, UK
-
-**When:** 9 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
@@ -139,33 +139,33 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 16 March, 2018
     
-## [CSSConf AU](https://2018.cssconf.com.au/)
-**Where:** Melbourne, AU
-
-**When:** 20 March, 2018
-    
 ## [Reactathon](https://www.reactathon.com/)
 **Where:** San Francisco, CA
 
 **When:** 20 - 22 March, 2018
     
-## [JSConf AU](https://2018.jsconfau.com/)
+## [CSSConf AU](https://2018.cssconf.com.au/)
 **Where:** Melbourne, AU
 
-**When:** 21 - 22 March, 2018
+**When:** 20 March, 2018
     
 ## [JazzCon.Tech](http://jazzcon.tech/)
 **Where:** New Orleans, LA
 
 **When:** 21 - 23 March, 2018
     
-## [Decompress](https://2018.decompress.com.au/)
+## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
-**When:** 23 March, 2018
+**When:** 21 - 22 March, 2018
     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
+
+**When:** 23 March, 2018
+    
+## [Decompress](https://2018.decompress.com.au/)
+**Where:** Melbourne, AU
 
 **When:** 23 March, 2018
     
@@ -204,13 +204,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 19 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     
@@ -238,7 +238,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Medellin, Colombia
 
 **When:** 27 - 28 April, 2018
-
+    
 ## [Beyond Tellerrand](https://beyondtellerrand.com)
 **Where:** Düsseldorf, Germany
 
@@ -379,15 +379,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 27 - 29 August, 2018
     
-## [Laracon EU](https://laracon.eu/2018/)
-**Where:** Amsterdam, Netherlands
-
-**When:** 30 - 31 August, 2018
-    
 ## [CoderCruise 2018](https://www.codercruise.com)
 **Where:** Ft. Lauderdale, FL
 
 **When:** 30 August - 3 September, 2018
+    
+## [Laracon EU](https://laracon.eu/2018/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 30 - 31 August, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
@@ -408,7 +408,7 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Orlando, FL
 
 **When:** 8 - 10 October, 2018
-
+    
 ## [Beyond Tellerrand](https://beyondtellerrand.com)
 **Where:** Berlin, Germany
 
