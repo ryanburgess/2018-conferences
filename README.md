@@ -429,15 +429,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 26 - 27 November, 2018
     
+## [DevTernity](https://devternity.com)
+**Where:** Riga, Latvia
+
+**When:** 30 November - 1 December, 2018
+    
 ## [An Event Apart - San Francisco](https://aneventapart.com/event/san-francisco-2018)
 **Where:** San Francisco, CA
 
 **When:** 10 - 12 December, 2018
-    
-## [DevTernity](https://devternity.com)
-**Where:** Riga, Latvia
-
-**When:** 11 June - 12 January, 2018
     
 ## Contributing
 1. Fork it
