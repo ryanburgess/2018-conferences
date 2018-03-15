@@ -204,13 +204,13 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 17 - 19 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
@@ -243,6 +243,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Düsseldorf, Germany
 
 **When:** 7 - 9 May, 2018
+    
+## [Google I/O](https://events.google.com/io/)
+**Where:** Mountain View, CA
+
+**When:** 8 - 10 May, 2018
     
 ## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
 **Where:** Amsterdam, Netherlands
@@ -303,6 +308,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Berlin, Germany
 
 **When:** 1 June, 2018
+    
+## [WWDC - Apple Worldwide Developers Conference](https://developer.apple.com/wwdc/)
+**Where:** San Jose, CA
+
+**When:** 4 - 8 June, 2018
     
 ## [WebConf Asia](https://webconf.asia/)
 **Where:** Hong Kong
