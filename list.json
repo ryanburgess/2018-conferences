@@ -864,5 +864,25 @@
     "month": "November",
     "submissionDeadline": "",
     "country": "Germany"
+  },
+  {
+    "title": "Google I/O",
+    "url": "https://events.google.com/io/",
+    "where": "Mountain View, CA",
+    "dateFrom": "05-08",
+    "dateTo": "05-10",
+    "month": "May",
+    "submissionDeadline": "April 10, 2018",
+    "country": "USA"
+  },
+  {
+    "title": "WWDC - Apple Worldwide Developers Conference",
+    "url": "https://developer.apple.com/wwdc/",
+    "where": "San Jose, CA",
+    "dateFrom": "06-04",
+    "dateTo": "06-08",
+    "month": "June",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
