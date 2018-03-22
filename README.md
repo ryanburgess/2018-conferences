@@ -239,6 +239,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 27 - 28 April, 2018
     
+## [Build Stuff España](https://www.buildstuff.es/)
+**Where:** Mallorca, Spain
+
+**When:** 5 - 6 May, 2018
+    
 ## [Beyond Tellerrand](https://beyondtellerrand.com)
 **Where:** Düsseldorf, Germany
 
