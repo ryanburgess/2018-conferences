@@ -884,5 +884,15 @@
     "month": "June",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "Build Stuff España",
+    "url": "https://www.buildstuff.es/",
+    "where": "Mallorca, Spain",
+    "dateFrom": "05-05",
+    "dateTo": "05-06",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "Spain"
   }
 ]
