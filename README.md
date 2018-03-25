@@ -324,10 +324,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 6 - 9 June, 2018
     
-## [DEVit](http://devitconf.org/)
+## [
+](http://devitconf.org/)
 **Where:** Thessaloniki, Greece
 
-**When:** 9 June, 2018
+**When:** 10-11 June, 2018
     
 ## [Fluent](https://conferences.oreilly.com/fluent/fl-ca)
 **Where:** San Jose, CA
