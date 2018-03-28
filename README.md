@@ -29,15 +29,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 30 January - 2 February, 2018
     
-## [ng-europe](https://ngeurope.org/)
-**Where:** Paris, France
-
-**When:** 1 - 2 February, 2018
-    
 ## [Rubyfuza](http://www.rubyfuza.org/)
 **Where:** Cape Town, South Africa
 
 **When:** 1 - 3 February, 2018
+    
+## [ng-europe](https://ngeurope.org/)
+**Where:** Paris, France
+
+**When:** 1 - 2 February, 2018
     
 ## [Awwwards Berlin](https://conference.awwwards.com/berlin)
 **Where:** Berlin, Germany
@@ -84,6 +84,11 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 22 February, 2018
     
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
+
+**When:** 1 - 2 March, 2018
+    
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
 
@@ -94,15 +99,15 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 1 - 2 March, 2018
     
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
-
-**When:** 1 - 2 March, 2018
-    
 ## [Concat](https://2018.conc.at/)
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
+    
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
+
+**When:** 7 - 8 March, 2018
     
 ## [MainXChange](https://mainxchange.de)
 **Where:** Wuerzburg, Germany
@@ -113,11 +118,6 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 **Where:** Montreal, QC
 
 **When:** 7 - 9 March, 2018
-    
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
-
-**When:** 7 - 8 March, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
@@ -139,25 +139,25 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 16 March, 2018
     
-## [Reactathon](https://www.reactathon.com/)
-**Where:** San Francisco, CA
-
-**When:** 20 - 22 March, 2018
-    
 ## [CSSConf AU](https://2018.cssconf.com.au/)
 **Where:** Melbourne, AU
 
 **When:** 20 March, 2018
     
-## [JazzCon.Tech](http://jazzcon.tech/)
-**Where:** New Orleans, LA
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
 
-**When:** 21 - 23 March, 2018
+**When:** 20 - 22 March, 2018
     
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
 **When:** 21 - 22 March, 2018
+    
+## [JazzCon.Tech](http://jazzcon.tech/)
+**Where:** New Orleans, LA
+
+**When:** 21 - 23 March, 2018
     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
@@ -269,30 +269,35 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 10 - 11 May, 2018
     
+## [PHP Day](https://2018.phpday.it/)
+**Where:** Verona, Italy
+
+**When:** 11 - 12 May, 2018
+    
 ## [Reason](https://www.reason-conf.com/)
 **Where:** Vienna, Austria
 
 **When:** 11 - 13 May, 2018
     
-## [PHP Day](https://2018.phpday.it/)
-**Where:** Verona, Italy
+## [WeAreDevelopers](https://www.wearedevelopers.com)
+**Where:** Vienna, Austria
 
-**When:** 11 - 12 May, 2018
+**When:** 16 - 18 May, 2018
     
 ## [RevolutionConf](https://revolutionconf.com/)
 **Where:** Virginia Beach, VA
 
 **When:** 17 - 18 May, 2018
     
-## [Front-Trends](https://2018.front-trends.com/)
-**Where:** Warsaw, Poland
-
-**When:** 24 - 25 May, 2018
-    
 ## [OFFF Barcelona](http://offf.barcelona/)
 **Where:** Barcelona, Spain
 
 **When:** 24 - 26 May, 2018
+    
+## [Front-Trends](https://2018.front-trends.com/)
+**Where:** Warsaw, Poland
+
+**When:** 24 - 25 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -324,11 +329,10 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 **When:** 6 - 9 June, 2018
     
-## [
-](http://devitconf.org/)
+## [DEVit](http://devitconf.org/)
 **Where:** Thessaloniki, Greece
 
-**When:** 10-11 June, 2018
+**When:** 9 June, 2018
     
 ## [Fluent](https://conferences.oreilly.com/fluent/fl-ca)
 **Where:** San Jose, CA
