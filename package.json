@@ -4,6 +4,7 @@
   "description": "A list of 2018 web development conferences",
   "main": "index.js",
   "scripts": {
+    
   },
   "repository": {
     "type": "git",
@@ -28,12 +29,12 @@
   },
   "homepage": "https://github.com/ryanburgess/2018-conferences#readme",
   "dependencies": {
+    "ical-generator": "^0.2.10"
   },
   "config": {
     "ghooks": {
       "pre-commit": "node index"
     }
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
