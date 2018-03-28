@@ -86,6 +86,11 @@ _**You can also add all conferences directly into your calendar by importing the
 
 **When:** 22 February, 2018
     
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
+
+**When:** 1 - 2 March, 2018
+    
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
 
@@ -96,21 +101,24 @@ _**You can also add all conferences directly into your calendar by importing the
 
 **When:** 1 - 2 March, 2018
     
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
-
-**When:** 1 - 2 March, 2018
-    
 ## [Concat](https://2018.conc.at/)
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
+    
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
+
+**When:** 7 - 8 March, 2018
     
 ## [MainXChange](https://mainxchange.de)
 **Where:** Wuerzburg, Germany
 
 **When:** 7 March, 2018
     
+## [ReactFest](https://reactfest.com/)
+**Where:** London, UK
+
 ## [Git Merge](https://git-merge.com/)
 **Where:** Barcelona, Spain
 
@@ -271,15 +279,20 @@ _**You can also add all conferences directly into your calendar by importing the
 
 **When:** 10 - 11 May, 2018
     
+## [PHP Day](https://2018.phpday.it/)
+**Where:** Verona, Italy
+
+**When:** 11 - 12 May, 2018
+    
 ## [Reason](https://www.reason-conf.com/)
 **Where:** Vienna, Austria
 
 **When:** 11 - 13 May, 2018
     
-## [PHP Day](https://2018.phpday.it/)
-**Where:** Verona, Italy
+## [WeAreDevelopers](https://www.wearedevelopers.com)
+**Where:** Vienna, Austria
 
-**When:** 11 - 12 May, 2018
+**When:** 16 - 18 May, 2018
     
 ## [RevolutionConf](https://revolutionconf.com/)
 **Where:** Virginia Beach, VA

@@ -19,6 +19,16 @@
     "country": "Latvia"
   },
   {
+    "title": "WeAreDevelopers",
+    "url": "https://www.wearedevelopers.com",
+    "where": "Vienna, Austria",
+    "dateFrom": "05-16",
+    "dateTo": "05-18",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "Austria"
+  },
+  {
     "title": "CSSConf EU",
     "url": "https://2018.cssconf.eu/",
     "where": "Berlin, Germany",
