@@ -5,6 +5,8 @@ const year = 2018;
 let content = `# ${year} Web Development Conferences
 A list of ${year} web development conferences.
 A list of [${year - 1} conferences](https://github.com/ryanburgess/${year - 1}-conferences).
+
+_**You can also add all conferences directly into your calendar by importing the \`.ics\` file into Google Calendar etc.**_
 `;
 // create contributing instructions
 const contribute =  `
@@ -12,10 +14,11 @@ const contribute =  `
 1. Fork it
 2. Add your conference to \`list.json\`
 3. Run \`node index\` to update \`README.md\` with your changes
-4. Create your feature branch (\`git checkout -b my-new-feature\`)
-5. Commit your changes (\`git commit -am "Add some feature"\`)
-6. Push to the branch (\`git push origin my-new-feature\`)
-7. Create new Pull Request
+4. Run \`node generate-ical\` to update the \`.ics\` file with your changes
+5. Create your feature branch (\`git checkout -b my-new-feature\`)
+6. Commit your changes (\`git commit -am "Add some feature"\`)
+7. Push to the branch (\`git push origin my-new-feature\`)
+8. Create new Pull Request
 `;
 
 // messages
