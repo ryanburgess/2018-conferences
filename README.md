@@ -4,13 +4,10 @@ A list of [2017 conferences](https://github.com/ryanburgess/2017-conferences).
 
 _**You can also add all conferences directly into your calendar by importing the `.ics` file into Google Calendar etc.**_
 
-<<<<<<< HEAD
-=======
 _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-conferences/master/2018-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
 
 **Feel free to [add any missing conferences](https://github.com/flxwu/2018-conferences#contributing)!**
 
->>>>>>> bf82c99... build
 # Conference List
 
 ## [Script](https://scriptconf.org/)
@@ -18,15 +15,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 19 January, 2018
     
-## [Agent](https://www.agent.sh/)
-**Where:** Dornbirn, Austria
-
-**When:** 25 - 26 January, 2018
-    
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
 
 **When:** 25 - 27 January, 2018
+    
+## [Agent](https://www.agent.sh/)
+**Where:** Dornbirn, Austria
+
+**When:** 25 - 26 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -123,28 +120,20 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 7 March, 2018
     
-## [ReactFest](https://reactfest.com/)
-**Where:** London, UK
-
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
-
-**When:** 7 - 8 March, 2018
-    
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
 
 **When:** 7 - 9 March, 2018
     
-## [GopherCon India](http://www.gophercon.in/)
-**Where:** Pune, India
-
-**When:** 9 - 10 March, 2018
-    
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
 
 **When:** 9 March, 2018
+    
+## [GopherCon India](http://www.gophercon.in/)
+**Where:** Pune, India
+
+**When:** 9 - 10 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
