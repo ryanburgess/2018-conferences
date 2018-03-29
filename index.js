@@ -7,6 +7,8 @@ A list of ${year} web development conferences.
 A list of [${year - 1} conferences](https://github.com/ryanburgess/${year - 1}-conferences).
 
 _**You can also add all conferences directly into your calendar by importing the \`.ics\` file into Google Calendar etc.**_
+
+_**The \`.ics\` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-conferences/master/2018-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
 `;
 // create contributing instructions
 const contribute =  `
