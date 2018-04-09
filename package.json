@@ -4,7 +4,7 @@
   "description": "A list of 2018 web development conferences",
   "main": "index.js",
   "scripts": {
-    
+    "build": "node index && node generate-ical"
   },
   "repository": {
     "type": "git",
