@@ -90,8 +90,8 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 22 February, 2018
     
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
 
 **When:** 1 - 2 March, 2018
     
@@ -100,8 +100,8 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 1 - 2 March, 2018
     
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
     
@@ -109,11 +109,6 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
-    
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
-
-**When:** 7 - 8 March, 2018
     
 ## [MainXChange](https://mainxchange.de)
 **Where:** Wuerzburg, Germany
@@ -124,6 +119,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Montreal, QC
 
 **When:** 7 - 9 March, 2018
+    
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
+
+**When:** 7 - 8 March, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
@@ -245,6 +245,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 27 - 28 April, 2018
     
+## [F8 Facebook Developer Conference](https://www.f8.com/index.html)
+**Where:** San Jose, California
+
+**When:** 1 - 2 May, 2018
+    
 ## [Build Stuff España](https://www.buildstuff.es/)
 **Where:** Mallorca, Spain
 
@@ -295,15 +300,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 18 May, 2018
     
-## [OFFF Barcelona](http://offf.barcelona/)
-**Where:** Barcelona, Spain
-
-**When:** 24 - 26 May, 2018
-    
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
 **When:** 24 - 25 May, 2018
+    
+## [OFFF Barcelona](http://offf.barcelona/)
+**Where:** Barcelona, Spain
+
+**When:** 24 - 26 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
