@@ -904,5 +904,15 @@
     "month": "May",
     "submissionDeadline": "",
     "country": "Spain"
+  },
+  {
+    "title": "F8 Facebook Developer Conference",
+    "url": "https://www.f8.com/index.html",
+    "where": "San Jose, California",
+    "dateFrom": "05-01",
+    "dateTo": "05-02",
+    "month": "May",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
