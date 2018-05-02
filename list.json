@@ -914,5 +914,15 @@
     "month": "May",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "DotAll Conference",
+    "url": "http://dotall.com/2018",
+    "where": "Berlin, Germany",
+    "dateFrom": "09-26",
+    "dateTo": "09-28",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]
