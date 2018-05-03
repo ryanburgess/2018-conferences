@@ -425,6 +425,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 6 September, 2018
     
+## [DotAll Conference](http://dotall.com/2018)
+**Where:** Berlin, Germany
+
+**When:** 26 - 28 September, 2018
+    
 ## [ReactiveConf](https://reactiveconf.com)
 **Where:** Bratislava, Slovakia
 
