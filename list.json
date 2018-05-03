@@ -924,5 +924,15 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "The Conf",
+    "url": "https://www.theconf.club",
+    "where": "São Paulo, Brazil",
+    "dateFrom": "09-21",
+    "dateTo": "09-22",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "BRA"
   }
 ]

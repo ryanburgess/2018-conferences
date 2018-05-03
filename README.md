@@ -89,7 +89,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** San Antonio, TX
 
 **When:** 22 February, 2018
-    
+
 ## [JSConf Iceland](https://2018.jsconf.is/)
 **Where:** Reykjavik, Iceland
 
@@ -99,12 +99,12 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Denver, CO
 
 **When:** 1 - 2 March, 2018
-    
+
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
-    
+   
 ## [Concat](https://2018.conc.at/)
 **Where:** Salzburg, Austria
 
@@ -154,17 +154,17 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** San Francisco, CA
 
 **When:** 20 - 22 March, 2018
-    
+
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
 **When:** 21 - 22 March, 2018
-    
+   
 ## [JazzCon.Tech](http://jazzcon.tech/)
 **Where:** New Orleans, LA
 
 **When:** 21 - 23 March, 2018
-    
+     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
 
@@ -424,6 +424,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Tel Aviv, Israel
 
 **When:** 6 September, 2018
+    
+## [The Conf](https://www.theconf.club)
+**Where:** São Paulo, Brazil
+
+**When:** 21 - 22 September, 2018
     
 ## [DotAll Conference](http://dotall.com/2018)
 **Where:** Berlin, Germany
