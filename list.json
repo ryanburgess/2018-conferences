@@ -926,6 +926,15 @@
     "country": "USA"
   },
   {
+    "title": "CONNECT.TECH",
+    "url": "http://connect.tech",
+    "where": "Atlanta, GA",
+    "when": "Octoberber 17-19, 2018",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "The Conf",
     "url": "https://www.theconf.club",
     "where": "São Paulo, Brazil",
@@ -935,4 +944,3 @@
     "submissionDeadline": "",
     "country": "BRA"
   }
-]
