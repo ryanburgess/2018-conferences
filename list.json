@@ -929,7 +929,9 @@
     "title": "CONNECT.TECH",
     "url": "http://connect.tech",
     "where": "Atlanta, GA",
-    "when": "Octoberber 17-19, 2018",
+    "when": "October 17-19, 2018",
+    "dateFrom": "10-17",
+    "dateTo": "10-19",
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
@@ -943,4 +945,14 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "BRA"
-  }
+},
+  {
+    "title": "UtahJS",
+    "url": "https://conf.utahjs.com/",
+    "where": "Sandy, UT",
+    "dateFrom": "09-14",
+    "dateTo": "09-14",
+    "month": "September",
+    "submissionDeadline": "Jun 17, 2018",
+    "country": "USA"
+  }]
