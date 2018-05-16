@@ -15,15 +15,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 19 January, 2018
     
-## [JSConf Asia](https://2018.jsconf.asia/)
-**Where:** Singapore
-
-**When:** 25 - 27 January, 2018
-    
 ## [Agent](https://www.agent.sh/)
 **Where:** Dornbirn, Austria
 
 **When:** 25 - 26 January, 2018
+    
+## [JSConf Asia](https://2018.jsconf.asia/)
+**Where:** Singapore
+
+**When:** 25 - 27 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -89,41 +89,41 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** San Antonio, TX
 
 **When:** 22 February, 2018
-
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
-
-**When:** 1 - 2 March, 2018
     
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
 
 **When:** 1 - 2 March, 2018
-
+    
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
-   
+    
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
+
+**When:** 1 - 2 March, 2018
+    
 ## [Concat](https://2018.conc.at/)
 **Where:** Salzburg, Austria
 
 **When:** 3 March, 2018
     
-## [MainXChange](https://mainxchange.de)
-**Where:** Wuerzburg, Germany
+## [Git Merge](https://git-merge.com/)
+**Where:** Barcelona, Spain
 
-**When:** 7 March, 2018
+**When:** 7 - 8 March, 2018
     
 ## [ConFoo](https://confoo.ca/en/yul2018)
 **Where:** Montreal, QC
 
 **When:** 7 - 9 March, 2018
     
-## [Git Merge](https://git-merge.com/)
-**Where:** Barcelona, Spain
+## [MainXChange](https://mainxchange.de)
+**Where:** Wuerzburg, Germany
 
-**When:** 7 - 8 March, 2018
+**When:** 7 March, 2018
     
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
@@ -145,33 +145,33 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 16 March, 2018
     
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
+
+**When:** 20 - 22 March, 2018
+    
 ## [CSSConf AU](https://2018.cssconf.com.au/)
 **Where:** Melbourne, AU
 
 **When:** 20 March, 2018
     
-## [Reactathon](https://www.reactathon.com/)
-**Where:** San Francisco, CA
-
-**When:** 20 - 22 March, 2018
-
-## [JSConf AU](https://2018.jsconfau.com/)
-**Where:** Melbourne, AU
-
-**When:** 21 - 22 March, 2018
-   
 ## [JazzCon.Tech](http://jazzcon.tech/)
 **Where:** New Orleans, LA
 
 **When:** 21 - 23 March, 2018
-     
-## [RenderConf](https://2018.render-conf.com/)
-**Where:** Oxford, UK
+    
+## [JSConf AU](https://2018.jsconfau.com/)
+**Where:** Melbourne, AU
 
-**When:** 23 March, 2018
+**When:** 21 - 22 March, 2018
     
 ## [Decompress](https://2018.decompress.com.au/)
 **Where:** Melbourne, AU
+
+**When:** 23 March, 2018
+    
+## [RenderConf](https://2018.render-conf.com/)
+**Where:** Oxford, UK
 
 **When:** 23 March, 2018
     
@@ -210,13 +210,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 19 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     
@@ -300,15 +300,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 18 May, 2018
     
-## [Front-Trends](https://2018.front-trends.com/)
-**Where:** Warsaw, Poland
-
-**When:** 24 - 25 May, 2018
-    
 ## [OFFF Barcelona](http://offf.barcelona/)
 **Where:** Barcelona, Spain
 
 **When:** 24 - 26 May, 2018
+    
+## [Front-Trends](https://2018.front-trends.com/)
+**Where:** Warsaw, Poland
+
+**When:** 24 - 25 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -410,20 +410,25 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 27 - 29 August, 2018
     
-## [CoderCruise 2018](https://www.codercruise.com)
-**Where:** Ft. Lauderdale, FL
-
-**When:** 30 August - 3 September, 2018
-    
 ## [Laracon EU](https://laracon.eu/2018/)
 **Where:** Amsterdam, Netherlands
 
 **When:** 30 - 31 August, 2018
     
+## [CoderCruise 2018](https://www.codercruise.com)
+**Where:** Ft. Lauderdale, FL
+
+**When:** 30 August - 3 September, 2018
+    
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
 
 **When:** 6 September, 2018
+    
+## [UtahJS](https://conf.utahjs.com/)
+**Where:** Sandy, UT
+
+**When:** 14 - 14 September, 2018
     
 ## [The Conf](https://www.theconf.club)
 **Where:** São Paulo, Brazil
@@ -449,6 +454,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Orlando, FL
 
 **When:** 8 - 10 October, 2018
+    
+## [CONNECT.TECH](http://connect.tech)
+**Where:** Atlanta, GA
+
+**When:** 17 - 19 October, 2018
     
 ## [Beyond Tellerrand](https://beyondtellerrand.com)
 **Where:** Berlin, Germany
