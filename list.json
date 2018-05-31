@@ -946,7 +946,7 @@
     "submissionDeadline": "",
     "country": "BRA"
 },
-  {
+{
     "title": "UtahJS",
     "url": "https://conf.utahjs.com/",
     "where": "Sandy, UT",
@@ -955,4 +955,15 @@
     "month": "September",
     "submissionDeadline": "Jun 17, 2018",
     "country": "USA"
-  }]
+},
+{
+  "title": "ColdFront 2018",
+  "url": "https://2018.coldfront.co",
+  "where": "Copenhagen, Denmark",
+  "dateFrom": "11-13",
+  "dateTo": "11-15",
+  "month": "November",
+  "submissionDeadline": "May 30, 2018",
+  "country": "Denmark"
+}
+]

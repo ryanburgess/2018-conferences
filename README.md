@@ -470,6 +470,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 13 - 15 November, 2018
     
+## [ColdFront 2018](https://2018.coldfront.co)
+**Where:** Copenhagen, Denmark
+
+**When:** 13 - 15 November, 2018
+    
 ## [Material](https://material.is/2018/)
 **Where:** Reykjavík, Iceland
 
