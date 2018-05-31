@@ -965,5 +965,15 @@
   "month": "November",
   "submissionDeadline": "May 30, 2018",
   "country": "Denmark"
+},
+{
+  "title": "Web Unleashed 2018",
+  "url": "http://fitc.ca/event/webu18/",
+  "where": "Toronto, Ontario",
+  "dateFrom": "10-01",
+  "dateTo": "10-02",
+  "month": "October",
+  "submissionDeadline": "October 1, 2018",
+  "country": "Canada"
 }
 ]
