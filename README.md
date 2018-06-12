@@ -280,15 +280,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 10 - 11 May, 2018
     
-## [Reason](https://www.reason-conf.com/)
-**Where:** Vienna, Austria
-
-**When:** 11 - 13 May, 2018
-    
 ## [PHP Day](https://2018.phpday.it/)
 **Where:** Verona, Italy
 
 **When:** 11 - 12 May, 2018
+    
+## [Reason](https://www.reason-conf.com/)
+**Where:** Vienna, Austria
+
+**When:** 11 - 13 May, 2018
     
 ## [WeAreDevelopers](https://www.wearedevelopers.com)
 **Where:** Vienna, Austria
@@ -300,15 +300,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 18 May, 2018
     
-## [Front-Trends](https://2018.front-trends.com/)
-**Where:** Warsaw, Poland
-
-**When:** 24 - 25 May, 2018
-    
 ## [OFFF Barcelona](http://offf.barcelona/)
 **Where:** Barcelona, Spain
 
 **When:** 24 - 26 May, 2018
+    
+## [Front-Trends](https://2018.front-trends.com/)
+**Where:** Warsaw, Poland
+
+**When:** 24 - 25 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -375,6 +375,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 11 - 13 July, 2018
     
+## [KCDC](http://www.kcdc.info/)
+**Where:** Kansas City, MO
+
+**When:** 11 - 13 July, 2018
+    
 ## [Mid-Atlantic Developer Conference](https://www.middevcon.com/)
 **Where:** Baltimore, MD
 
@@ -410,15 +415,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 27 - 29 August, 2018
     
-## [CoderCruise 2018](https://www.codercruise.com)
-**Where:** Ft. Lauderdale, FL
-
-**When:** 30 August - 3 September, 2018
-    
 ## [Laracon EU](https://laracon.eu/2018/)
 **Where:** Amsterdam, Netherlands
 
 **When:** 30 - 31 August, 2018
+    
+## [CoderCruise 2018](https://www.codercruise.com)
+**Where:** Ft. Lauderdale, FL
+
+**When:** 30 August - 3 September, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
