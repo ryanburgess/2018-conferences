@@ -599,6 +599,16 @@
     "country": "UK"
   },
   {
+    "title": "KCDC",
+    "url": "http://www.kcdc.info/",
+    "where": "Kansas City, MO",
+    "dateFrom": "07-11",
+    "dateTo": "07-13",
+    "month": "July",
+    "submissionDeadline": "",
+    "country": "USA"
+  },
+  {
     "title": "An Event Apart - Washington DC",
     "url": "https://aneventapart.com/event/washington-dc-2018",
     "where": "Washington, DC",
