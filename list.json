@@ -985,5 +985,15 @@
   "month": "October",
   "submissionDeadline": "October 1, 2018",
   "country": "Canada"
+},
+{
+  "title": "Mirror Conf 2018",
+  "url": "https://www.mirrorconf.com/",
+  "where": "Braga, Portugal",
+  "dateFrom": "10-15",
+  "dateTo": "10-19",
+  "month": "October",
+  "submissionDeadline": "July 16, 2018",
+  "country": "Portugal"
 }
 ]
