@@ -90,11 +90,6 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 22 February, 2018
     
-## [JSConf Iceland](https://2018.jsconf.is/)
-**Where:** Reykjavik, Iceland
-
-**When:** 1 - 2 March, 2018
-    
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
 
@@ -102,6 +97,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
     
 ## [NG Vikings](https://ngvikings.org/)
 **Where:** Helsinki, Finland
+
+**When:** 1 - 2 March, 2018
+    
+## [JSConf Iceland](https://2018.jsconf.is/)
+**Where:** Reykjavik, Iceland
 
 **When:** 1 - 2 March, 2018
     
@@ -115,15 +115,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 7 - 9 March, 2018
     
-## [MainXChange](https://mainxchange.de)
-**Where:** Wuerzburg, Germany
-
-**When:** 7 March, 2018
-    
 ## [Git Merge](https://git-merge.com/)
 **Where:** Barcelona, Spain
 
 **When:** 7 - 8 March, 2018
+    
+## [MainXChange](https://mainxchange.de)
+**Where:** Wuerzburg, Germany
+
+**When:** 7 March, 2018
     
 ## [GopherCon India](http://www.gophercon.in/)
 **Where:** Pune, India
@@ -145,15 +145,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 16 March, 2018
     
-## [Reactathon](https://www.reactathon.com/)
-**Where:** San Francisco, CA
-
-**When:** 20 - 22 March, 2018
-    
 ## [CSSConf AU](https://2018.cssconf.com.au/)
 **Where:** Melbourne, AU
 
 **When:** 20 March, 2018
+    
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
+
+**When:** 20 - 22 March, 2018
     
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
@@ -210,13 +210,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 19 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     
@@ -415,15 +415,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 27 - 29 August, 2018
     
-## [Laracon EU](https://laracon.eu/2018/)
-**Where:** Amsterdam, Netherlands
-
-**When:** 30 - 31 August, 2018
-    
 ## [CoderCruise 2018](https://www.codercruise.com)
 **Where:** Ft. Lauderdale, FL
 
 **When:** 30 August - 3 September, 2018
+    
+## [Laracon EU](https://laracon.eu/2018/)
+**Where:** Amsterdam, Netherlands
+
+**When:** 30 - 31 August, 2018
     
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
@@ -445,15 +445,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 26 - 28 September, 2018
     
-## [Web Unleashed 2018](http://fitc.ca/event/webu18/)
-**Where:** Toronto, Ontario
-
-**When:** 1 - 2 October, 2018
-    
 ## [ReactiveConf](https://reactiveconf.com)
 **Where:** Bratislava, Slovakia
 
 **When:** 1 October, 2018
+    
+## [Web Unleashed 2018](http://fitc.ca/event/webu18/)
+**Where:** Toronto, Ontario
+
+**When:** 1 - 2 October, 2018
     
 ## [Framework Summit](https://www.frameworksummit.com/)
 **Where:** Park City, Utah
@@ -465,6 +465,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 8 - 10 October, 2018
     
+## [Mirror Conf 2018](https://www.mirrorconf.com/)
+**Where:** Braga, Portugal
+
+**When:** 15 - 19 October, 2018
+    
 ## [CONNECT.TECH](http://connect.tech)
 **Where:** Atlanta, GA
 
@@ -475,13 +480,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 5 - 7 November, 2018
     
-## [RubyConf](http://rubyconf.org/)
-**Where:** Los Angeles, CA
+## [ColdFront 2018](https://2018.coldfront.co)
+**Where:** Copenhagen, Denmark
 
 **When:** 13 - 15 November, 2018
     
-## [ColdFront 2018](https://2018.coldfront.co)
-**Where:** Copenhagen, Denmark
+## [RubyConf](http://rubyconf.org/)
+**Where:** Los Angeles, CA
 
 **When:** 13 - 15 November, 2018
     
