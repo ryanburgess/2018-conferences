@@ -689,6 +689,16 @@
     "country": "USA"
   },
   {
+    "title": "php[world] 2018",
+    "url": "https://world.phparch.com/",
+    "where": "Washington, DC",
+    "dateFrom": "11-14",
+    "dateTo": "11-15",
+    "month": "November",
+    "submissionDeadline": "July 22, 2018",
+    "country": "USA"
+  },
+  {
     "title": "An Event Apart - San Francisco",
     "url": "https://aneventapart.com/event/san-francisco-2018",
     "where": "San Francisco, CA",
