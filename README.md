@@ -280,15 +280,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 10 - 11 May, 2018
     
-## [PHP Day](https://2018.phpday.it/)
-**Where:** Verona, Italy
-
-**When:** 11 - 12 May, 2018
-    
 ## [Reason](https://www.reason-conf.com/)
 **Where:** Vienna, Austria
 
 **When:** 11 - 13 May, 2018
+    
+## [PHP Day](https://2018.phpday.it/)
+**Where:** Verona, Italy
+
+**When:** 11 - 12 May, 2018
     
 ## [WeAreDevelopers](https://www.wearedevelopers.com)
 **Where:** Vienna, Austria
@@ -300,15 +300,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 18 May, 2018
     
-## [OFFF Barcelona](http://offf.barcelona/)
-**Where:** Barcelona, Spain
-
-**When:** 24 - 26 May, 2018
-    
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
 **When:** 24 - 25 May, 2018
+    
+## [OFFF Barcelona](http://offf.barcelona/)
+**Where:** Barcelona, Spain
+
+**When:** 24 - 26 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -370,13 +370,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 29 June, 2018
     
-## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
-**Where:** London, UK
+## [KCDC](http://www.kcdc.info/)
+**Where:** Kansas City, MO
 
 **When:** 11 - 13 July, 2018
     
-## [KCDC](http://www.kcdc.info/)
-**Where:** Kansas City, MO
+## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
+**Where:** London, UK
 
 **When:** 11 - 13 July, 2018
     
@@ -489,6 +489,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Los Angeles, CA
 
 **When:** 13 - 15 November, 2018
+    
+## [php[world] 2018](https://world.phparch.com/)
+**Where:** Washington, DC
+
+**When:** 14 - 15 November, 2018
     
 ## [Material](https://material.is/2018/)
 **Where:** Reykjavík, Iceland
