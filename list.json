@@ -965,8 +965,8 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "BRA"
-},
-{
+  },
+  {
     "title": "UtahJS",
     "url": "https://conf.utahjs.com/",
     "where": "Sandy, UT",
@@ -975,35 +975,53 @@
     "month": "September",
     "submissionDeadline": "Jun 17, 2018",
     "country": "USA"
-},
-{
-  "title": "ColdFront 2018",
-  "url": "https://2018.coldfront.co",
-  "where": "Copenhagen, Denmark",
-  "dateFrom": "11-13",
-  "dateTo": "11-15",
-  "month": "November",
-  "submissionDeadline": "May 30, 2018",
-  "country": "Denmark"
-},
-{
-  "title": "Web Unleashed 2018",
-  "url": "http://fitc.ca/event/webu18/",
-  "where": "Toronto, Ontario",
-  "dateFrom": "10-01",
-  "dateTo": "10-02",
-  "month": "October",
-  "submissionDeadline": "October 1, 2018",
-  "country": "Canada"
-},
-{
-  "title": "Mirror Conf 2018",
-  "url": "https://www.mirrorconf.com/",
-  "where": "Braga, Portugal",
-  "dateFrom": "10-15",
-  "dateTo": "10-19",
-  "month": "October",
-  "submissionDeadline": "July 16, 2018",
-  "country": "Portugal"
-}
+  },
+  {
+    "title": "ColdFront 2018",
+    "url": "https://2018.coldfront.co",
+    "where": "Copenhagen, Denmark",
+    "dateFrom": "11-13",
+    "dateTo": "11-15",
+    "month": "November",
+    "submissionDeadline": "May 30, 2018",
+    "country": "Denmark"
+  },
+  {
+    "title": "Web Unleashed 2018",
+    "url": "http://fitc.ca/event/webu18/",
+    "where": "Toronto, Ontario",
+    "dateFrom": "10-01",
+    "dateTo": "10-02",
+    "month": "October",
+    "submissionDeadline": "October 1, 2018",
+    "country": "Canada"
+  },
+  {
+    "title": "Mirror Conf 2018",
+    "url": "https://www.mirrorconf.com/",
+    "where": "Braga, Portugal",
+    "dateFrom": "10-15",
+    "dateTo": "10-19",
+    "month": "October",
+    "submissionDeadline": "July 16, 2018",
+    "country": "Portugal"
+  }, {
+    "title": "SmashingConf New York",
+    "url": "https://smashingconf.com/ny-2018",
+    "where": "New York, NY",
+    "dateFrom": "10-23",
+    "dateTo": "10-24",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
+  }, {
+    "title": "SmashingConf Freiburg",
+    "url": "https://smashingconf.com",
+    "where": "Freiburg, Germany",
+    "dateFrom": "09-10",
+    "dateTo": "09-11",
+    "month": "September",
+    "submissionDeadline": "",
+    "country": "USA"
+  }
 ]
