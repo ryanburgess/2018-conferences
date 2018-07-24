@@ -15,15 +15,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 19 January, 2018
     
-## [Agent](https://www.agent.sh/)
-**Where:** Dornbirn, Austria
-
-**When:** 25 - 26 January, 2018
-    
 ## [JSConf Asia](https://2018.jsconf.asia/)
 **Where:** Singapore
 
 **When:** 25 - 27 January, 2018
+    
+## [Agent](https://www.agent.sh/)
+**Where:** Dornbirn, Austria
+
+**When:** 25 - 26 January, 2018
     
 ## [dotSwift](https://www.dotswift.io/)
 **Where:** Paris, France
@@ -90,6 +90,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 22 February, 2018
     
+## [NG Vikings](https://ngvikings.org/)
+**Where:** Helsinki, Finland
+
+**When:** 1 - 2 March, 2018
+    
 ## [JSConf Iceland](https://2018.jsconf.is/)
 **Where:** Reykjavik, Iceland
 
@@ -97,11 +102,6 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
     
 ## [ElixirDaze](http://www.elixirdaze.com/)
 **Where:** Denver, CO
-
-**When:** 1 - 2 March, 2018
-    
-## [NG Vikings](https://ngvikings.org/)
-**Where:** Helsinki, Finland
 
 **When:** 1 - 2 March, 2018
     
@@ -125,15 +125,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 7 - 9 March, 2018
     
-## [ReactFest](https://reactfest.com/)
-**Where:** London, UK
-
-**When:** 9 March, 2018
-    
 ## [GopherCon India](http://www.gophercon.in/)
 **Where:** Pune, India
 
 **When:** 9 - 10 March, 2018
+    
+## [ReactFest](https://reactfest.com/)
+**Where:** London, UK
+
+**When:** 9 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
@@ -145,25 +145,25 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 16 March, 2018
     
-## [Reactathon](https://www.reactathon.com/)
-**Where:** San Francisco, CA
-
-**When:** 20 - 22 March, 2018
-    
 ## [CSSConf AU](https://2018.cssconf.com.au/)
 **Where:** Melbourne, AU
 
 **When:** 20 March, 2018
     
-## [JSConf AU](https://2018.jsconfau.com/)
-**Where:** Melbourne, AU
+## [Reactathon](https://www.reactathon.com/)
+**Where:** San Francisco, CA
 
-**When:** 21 - 22 March, 2018
+**When:** 20 - 22 March, 2018
     
 ## [JazzCon.Tech](http://jazzcon.tech/)
 **Where:** New Orleans, LA
 
 **When:** 21 - 23 March, 2018
+    
+## [JSConf AU](https://2018.jsconfau.com/)
+**Where:** Melbourne, AU
+
+**When:** 21 - 22 March, 2018
     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
@@ -300,15 +300,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 18 May, 2018
     
-## [OFFF Barcelona](http://offf.barcelona/)
-**Where:** Barcelona, Spain
-
-**When:** 24 - 26 May, 2018
-    
 ## [Front-Trends](https://2018.front-trends.com/)
 **Where:** Warsaw, Poland
 
 **When:** 24 - 25 May, 2018
+    
+## [OFFF Barcelona](http://offf.barcelona/)
+**Where:** Barcelona, Spain
+
+**When:** 24 - 26 May, 2018
     
 ## [Frontend United 2018](https://www.frontendunited.org)
 **Where:** Utrecht, Netherlands
@@ -370,13 +370,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 29 June, 2018
     
-## [KCDC](http://www.kcdc.info/)
-**Where:** Kansas City, MO
+## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
+**Where:** London, UK
 
 **When:** 11 - 13 July, 2018
     
-## [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things)
-**Where:** London, UK
+## [KCDC](http://www.kcdc.info/)
+**Where:** Kansas City, MO
 
 **When:** 11 - 13 July, 2018
     
@@ -450,15 +450,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 26 - 28 September, 2018
     
-## [Web Unleashed 2018](http://fitc.ca/event/webu18/)
-**Where:** Toronto, Ontario
-
-**When:** 1 - 2 October, 2018
-    
 ## [ReactiveConf](https://reactiveconf.com)
 **Where:** Bratislava, Slovakia
 
 **When:** 1 October, 2018
+    
+## [Web Unleashed 2018](http://fitc.ca/event/webu18/)
+**Where:** Toronto, Ontario
+
+**When:** 1 - 2 October, 2018
     
 ## [Framework Summit](https://www.frameworksummit.com/)
 **Where:** Park City, Utah
@@ -469,6 +469,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Orlando, FL
 
 **When:** 8 - 10 October, 2018
+    
+## [We ❤️ Speed](https://www.welovespeed.com/en/)
+**Where:** Bordeaux, France
+
+**When:** 9 - 9 October, 2018
     
 ## [Mirror Conf 2018](https://www.mirrorconf.com/)
 **Where:** Braga, Portugal
