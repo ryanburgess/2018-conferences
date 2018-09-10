@@ -1,4 +1,5 @@
-[{
+[
+  {
     "title": "Script",
     "url": "https://scriptconf.org/",
     "where": "Linz, Austria",
@@ -1005,7 +1006,8 @@
     "month": "October",
     "submissionDeadline": "July 16, 2018",
     "country": "Portugal"
-  }, {
+  },
+  {
     "title": "SmashingConf New York",
     "url": "https://smashingconf.com/ny-2018",
     "where": "New York, NY",
@@ -1014,7 +1016,8 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
-  }, {
+  },
+  {
     "title": "SmashingConf Freiburg",
     "url": "https://smashingconf.com",
     "where": "Freiburg, Germany",
@@ -1023,7 +1026,8 @@
     "month": "September",
     "submissionDeadline": "",
     "country": "USA"
-  }, {
+  },
+  {
     "title": "We ❤️ Speed",
     "url": "https://www.welovespeed.com/en/",
     "where": "Bordeaux, France",
@@ -1032,5 +1036,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "France"
+  },
+  {
+    "title": "JAMstack_conf",
+    "url": "https://jamstackconf.com/",
+    "where": "San Francisco, CA",
+    "dateFrom": "10-29",
+    "dateTo": "10-30",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

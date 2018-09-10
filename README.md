@@ -490,18 +490,23 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 23 - 24 October, 2018
     
+## [JAMstack_conf](https://jamstackconf.com/)
+**Where:** San Francisco, CA
+
+**When:** 29 - 30 October, 2018
+    
 ## [Beyond Tellerrand](https://beyondtellerrand.com)
 **Where:** Berlin, Germany
 
 **When:** 5 - 7 November, 2018
     
-## [ColdFront 2018](https://2018.coldfront.co)
-**Where:** Copenhagen, Denmark
+## [RubyConf](http://rubyconf.org/)
+**Where:** Los Angeles, CA
 
 **When:** 13 - 15 November, 2018
     
-## [RubyConf](http://rubyconf.org/)
-**Where:** Los Angeles, CA
+## [ColdFront 2018](https://2018.coldfront.co)
+**Where:** Copenhagen, Denmark
 
 **When:** 13 - 15 November, 2018
     
