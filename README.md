@@ -425,11 +425,6 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 30 - 31 August, 2018
     
-## [React Next](http://react-next.com/)
-**Where:** Tel Aviv, Israel
-
-**When:** 6 September, 2018
-    
 ## [SmashingConf Freiburg](https://smashingconf.com)
 **Where:** Freiburg, Germany
 
@@ -489,6 +484,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** New York, NY
 
 **When:** 23 - 24 October, 2018
+    
+## [React Next](http://react-next.com/)
+**Where:** Tel Aviv, Israel
+
+**When:** 4 - 4 November, 2018
     
 ## [Beyond Tellerrand](https://beyondtellerrand.com)
 **Where:** Berlin, Germany
