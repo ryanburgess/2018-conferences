@@ -6,8 +6,6 @@ _**You can also add all conferences directly into your calendar by importing the
 
 _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-conferences/master/2018-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
 
-**Feel free to [add any missing conferences](https://github.com/flxwu/2018-conferences#contributing)!**
-
 # Conference List
 
 ## [Script](https://scriptconf.org/)
