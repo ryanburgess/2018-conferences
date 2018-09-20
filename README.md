@@ -443,15 +443,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 26 - 28 September, 2018
     
-## [ReactiveConf](https://reactiveconf.com)
-**Where:** Bratislava, Slovakia
-
-**When:** 1 October, 2018
-    
 ## [Web Unleashed 2018](http://fitc.ca/event/webu18/)
 **Where:** Toronto, Ontario
 
 **When:** 1 - 2 October, 2018
+    
+## [ReactiveConf](https://reactiveconf.com)
+**Where:** Bratislava, Slovakia
+
+**When:** 1 October, 2018
     
 ## [Framework Summit](https://www.frameworksummit.com/)
 **Where:** Park City, Utah
@@ -487,7 +487,7 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** San Francisco, CA
 
 **When:** 29 - 30 October, 2018
-
+    
 ## [React Next](http://react-next.com/)
 **Where:** Tel Aviv, Israel
 
