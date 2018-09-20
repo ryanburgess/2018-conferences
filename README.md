@@ -6,8 +6,6 @@ _**You can also add all conferences directly into your calendar by importing the
 
 _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-conferences/master/2018-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
 
-**Feel free to [add any missing conferences](https://github.com/flxwu/2018-conferences#contributing)!**
-
 # Conference List
 
 ## [Script](https://scriptconf.org/)
@@ -425,11 +423,6 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 30 - 31 August, 2018
     
-## [React Next](http://react-next.com/)
-**Where:** Tel Aviv, Israel
-
-**When:** 6 September, 2018
-    
 ## [SmashingConf Freiburg](https://smashingconf.com)
 **Where:** Freiburg, Germany
 
@@ -494,6 +487,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** San Francisco, CA
 
 **When:** 29 - 30 October, 2018
+
+## [React Next](http://react-next.com/)
+**Where:** Tel Aviv, Israel
+
+**When:** 4 - 4 November, 2018
     
 ## [Beyond Tellerrand](https://beyondtellerrand.com)
 **Where:** Berlin, Germany

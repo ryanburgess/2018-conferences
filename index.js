@@ -1,6 +1,8 @@
 'use strict';
 const fs = require('fs');
 const obj = require('./list.json');
+const ical = require('ical-generator');
+const cal = ical();
 const year = 2018;
 let content = `# ${year} Web Development Conferences
 A list of ${year} web development conferences.
@@ -9,8 +11,6 @@ A list of [${year - 1} conferences](https://github.com/ryanburgess/${year - 1}-c
 _**You can also add all conferences directly into your calendar by importing the \`.ics\` file into Google Calendar etc.**_
 
 _**The \`.ics\` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-conferences/master/2018-conferences.ics), but it's recommended to add it via URL (if your client supports that). Thus, you will dynamically get all updates.**_
-
-**Feel free to [add any missing conferences](https://github.com/flxwu/2018-conferences#contributing)!**
 `;
 // create contributing instructions
 const contribute =  `
@@ -116,3 +116,21 @@ fs.writeFile('./README.md', content, function (err) {
   if (err) throw err;
   console.log( messages.success.updated );
 });
+
+// update ical
+obj.forEach(event => {
+  cal.createEvent({
+    start: new Date(`${event.dateFrom}-${year}`),
+    end: new Date(`${event.dateTo ? event.dateTo : event.dateFrom}-${year}`),
+    summary: event.title,
+    description: event.url,
+    location: event.where,
+  });
+});
+
+const outputCal = cal.toString();
+const outputFile = `${year}-conferences.ics`;
+fs.writeFile(outputFile, outputCal, (err) => {
+  console.log(err ? err : `Exported all ${year} conferences into ${outputFile}. This file can be imported from any calendar like Google Calendar.`)
+});
+
