@@ -1046,5 +1046,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "React Conf",
+    "url": "https://conf.reactjs.org/",
+    "where": "Henderson, Nevada",
+    "dateFrom": "10-25",
+    "dateTo": "10-26",
+    "month": "October",
+    "submissionDeadline": "",
+    "country": "USA"
   }
 ]

@@ -123,15 +123,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 7 - 9 March, 2018
     
-## [GopherCon India](http://www.gophercon.in/)
-**Where:** Pune, India
-
-**When:** 9 - 10 March, 2018
-    
 ## [ReactFest](https://reactfest.com/)
 **Where:** London, UK
 
 **When:** 9 March, 2018
+    
+## [GopherCon India](http://www.gophercon.in/)
+**Where:** Pune, India
+
+**When:** 9 - 10 March, 2018
     
 ## [EmberConf](http://emberconf.com/)
 **Where:** Portland, Oregon
@@ -143,25 +143,25 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 16 March, 2018
     
-## [CSSConf AU](https://2018.cssconf.com.au/)
-**Where:** Melbourne, AU
-
-**When:** 20 March, 2018
-    
 ## [Reactathon](https://www.reactathon.com/)
 **Where:** San Francisco, CA
 
 **When:** 20 - 22 March, 2018
     
-## [JazzCon.Tech](http://jazzcon.tech/)
-**Where:** New Orleans, LA
+## [CSSConf AU](https://2018.cssconf.com.au/)
+**Where:** Melbourne, AU
 
-**When:** 21 - 23 March, 2018
+**When:** 20 March, 2018
     
 ## [JSConf AU](https://2018.jsconfau.com/)
 **Where:** Melbourne, AU
 
 **When:** 21 - 22 March, 2018
+    
+## [JazzCon.Tech](http://jazzcon.tech/)
+**Where:** New Orleans, LA
+
+**When:** 21 - 23 March, 2018
     
 ## [RenderConf](https://2018.render-conf.com/)
 **Where:** Oxford, UK
@@ -208,13 +208,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 17 - 19 April, 2018
     
-## [NG Conf](https://www.ng-conf.org/)
-**Where:** Salt Lake City, UT
+## [JSHeroes](https://jsheroes.io/)
+**Where:** Cluj-Napoca, Romania
 
 **When:** 18 - 20 April, 2018
     
-## [JSHeroes](https://jsheroes.io/)
-**Where:** Cluj-Napoca, Romania
+## [NG Conf](https://www.ng-conf.org/)
+**Where:** Salt Lake City, UT
 
 **When:** 18 - 20 April, 2018
     
@@ -258,15 +258,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 7 - 9 May, 2018
     
-## [Google I/O](https://events.google.com/io/)
-**Where:** Mountain View, CA
-
-**When:** 8 - 10 May, 2018
-    
 ## [Codemotion Amsterdam](https://amsterdam2018.codemotionworld.com)
 **Where:** Amsterdam, Netherlands
 
 **When:** 8 - 9 May, 2018
+    
+## [Google I/O](https://events.google.com/io/)
+**Where:** Mountain View, CA
+
+**When:** 8 - 10 May, 2018
     
 ## [Pycon](https://us.pycon.org/2018/)
 **Where:** Cleveland, OH
@@ -483,6 +483,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 23 - 24 October, 2018
     
+## [React Conf](https://conf.reactjs.org/)
+**Where:** Henderson, Nevada
+
+**When:** 25 - 26 October, 2018
+    
 ## [JAMstack_conf](https://jamstackconf.com/)
 **Where:** San Francisco, CA
 
@@ -498,13 +503,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 5 - 7 November, 2018
     
-## [RubyConf](http://rubyconf.org/)
-**Where:** Los Angeles, CA
+## [ColdFront 2018](https://2018.coldfront.co)
+**Where:** Copenhagen, Denmark
 
 **When:** 13 - 15 November, 2018
     
-## [ColdFront 2018](https://2018.coldfront.co)
-**Where:** Copenhagen, Denmark
+## [RubyConf](http://rubyconf.org/)
+**Where:** Los Angeles, CA
 
 **When:** 13 - 15 November, 2018
     
