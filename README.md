@@ -413,15 +413,15 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 27 - 29 August, 2018
     
-## [CoderCruise 2018](https://www.codercruise.com)
-**Where:** Ft. Lauderdale, FL
-
-**When:** 30 August - 3 September, 2018
-    
 ## [Laracon EU](https://laracon.eu/2018/)
 **Where:** Amsterdam, Netherlands
 
 **When:** 30 - 31 August, 2018
+    
+## [CoderCruise 2018](https://www.codercruise.com)
+**Where:** Ft. Lauderdale, FL
+
+**When:** 30 August - 3 September, 2018
     
 ## [SmashingConf Freiburg](https://smashingconf.com)
 **Where:** Freiburg, Germany
@@ -503,13 +503,13 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 
 **When:** 5 - 7 November, 2018
     
-## [ColdFront 2018](https://2018.coldfront.co)
-**Where:** Copenhagen, Denmark
+## [RubyConf](http://rubyconf.org/)
+**Where:** Los Angeles, CA
 
 **When:** 13 - 15 November, 2018
     
-## [RubyConf](http://rubyconf.org/)
-**Where:** Los Angeles, CA
+## [ColdFront 2018](https://2018.coldfront.co)
+**Where:** Copenhagen, Denmark
 
 **When:** 13 - 15 November, 2018
     
@@ -532,6 +532,11 @@ _**The `.ics` file can be downloaded [here](https://rawgit.com/ryanburgess/2018-
 **Where:** Riga, Latvia
 
 **When:** 30 November - 1 December, 2018
+    
+## [React Day Berlin](https://reactday.berlin/)
+**Where:** Berlin, Germany
+
+**When:** 30 - 30 November, 2018
     
 ## [An Event Apart - San Francisco](https://aneventapart.com/event/san-francisco-2018)
 **Where:** San Francisco, CA

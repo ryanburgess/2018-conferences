@@ -1056,5 +1056,15 @@
     "month": "October",
     "submissionDeadline": "",
     "country": "USA"
+  },
+  {
+    "title": "React Day Berlin",
+    "url": "https://reactday.berlin/",
+    "where": "Berlin, Germany",
+    "dateFrom": "11-30",
+    "dateTo": "11-30",
+    "month": "November",
+    "submissionDeadline": "",
+    "country": "Germany"
   }
 ]
